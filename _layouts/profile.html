@@ -2,16 +2,11 @@
 layout: default
 ---
 
-<h1>{{ page.person }}</h1>
-<img src="{{ page.mainPortrait }}" alt="">
-
-
-
-
 {% for profile in site.data.inmyshoes %}
   {% for image in profile.images %}
     {% if image.name == page.person %}
     <h1>{{ image.name }}</h1>
+    <img src="/assets/images/portraits/{{ image.filename }}" alt="">
     {% endif %}
   {% endfor %}
 {% endfor %}

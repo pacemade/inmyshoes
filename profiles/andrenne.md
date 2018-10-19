@@ -1,7 +1,6 @@
 ---
 layout: profile
 person: Andrenne
-mainPortrait: /assets/images/portraits/1.jpeg
 permalink: /profiles/andrenne.html
 ---
 
