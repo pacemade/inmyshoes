@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+---
+layout: default
+---
 
-  {%- include head.html -%}
+<h1>{{ page.person }}</h1>
+<img src="{{ page.mainPortrait }}" alt="">
 
-  <body>
 
-    {%- include header.html -%}
 
-    <main class"page-content">
-          {{ content }}
-    </main>
 
-    {%- include footer.html -%}
+{% for profile in site.data.inmyshoes %}
+  {% for image in profile.images %}
+    {% if image.name == page.person %}
+    <h1>{{ image.name }}</h1>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
-  </body>
-</html>
+<p> {{ content }} </p>

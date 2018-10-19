@@ -10,7 +10,7 @@ layout: default
     {% for image in gallery.images %}
       <div class="portraitsBlog">
         <h2 class="blogName">{{ image.name }}</h2>
-          <a href="profiles/{{ image.name }}.html">
+          <a href="profiles/{{ image.name}}.html">
             <img class="blogImage" src="{{ gallery.imagefolder }}/{{ image.filename }}">
           </a>
         <div class="stats">
