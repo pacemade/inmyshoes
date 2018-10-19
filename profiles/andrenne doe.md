@@ -1,7 +1,6 @@
 ---
 layout: profile
-person: Andrenne
-permalink: /profiles/andrenne.html
+person: Andrenne Doe
 ---
 
 Lorizzle crunk dolizzle fo shizzle mah nizzle fo rizzle, mah home g-dizzle amet, i'm in the shizzle adipiscing elit. Nullam owned velit, sheezy volutpizzle, ass yo mamma, gravida vizzle, arcu. Dope eget tortizzle. Sed erizzle. Fusce fo shizzle mah nizzle fo rizzle, mah home g-dizzle dolizzle dapibizzle izzle shizzle my nizzle crocodizzle brizzle. Maurizzle pellentesque nibh mah nizzle yo. Rizzle izzle tortor. Pellentesque boom shackalack rhoncizzle dope. In yippiyo habitasse platea dictumst. Rizzle fo. Curabitur tellizzle ghetto, pretizzle eu, mattis ac, black vitae, nunc. Shiz suscipizzle. Integizzle sempizzle velit sizzle mammasay mammasa mamma oo sa.

@@ -2,11 +2,13 @@
 layout: default
 ---
 
-{% for profile in site.data.inmyshoes %}
-  {% for image in profile.images %}
-    {% if image.name == page.person %}
-    <h1>{{ image.name }}</h1>
-    <img src="/assets/images/portraits/{{ image.filename }}" alt="">
+{% for profiles in site.data.inmyshoes %}
+  {% for person in profiles.people %}
+    {% if person.name == page.person %}
+    <h1>{{ person.name }}</h1>
+    <img src="/assets/images/portraits/{{ person.filename }}" alt="">
+    <h2>{{ person.occupation }}</h2>
+    <h2>Favorite {{ person.factCategory }}: {{ person.factFact }}</h2>
     {% endif %}
   {% endfor %}
 {% endfor %}
