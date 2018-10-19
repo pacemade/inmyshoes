@@ -1,0 +1,76 @@
+- id: profiles
+  description: portraits
+  imagefolder: /assets/images/portraits
+  images:
+  - filename: 1.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 2.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 3.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 4.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 5.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 6.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 7.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 8.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 9.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 10.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 11.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
+  - filename: 12.jpeg
+    name: Marty McBooBoo
+    occupation: Superhero
+    factCategory: Favorite Ice Cream
+    factFact: Pikachu
+    bgColor: yellow
