@@ -1,0 +1,35 @@
+footer {
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  overflow:hidden;
+}
+
+.site-footer {
+  width: 80%;
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+  .copyright h5 {
+    margin-top: 0;
+    color: $darkest;
+  }
+  a:link, a:visited {
+    text-decoration: none;
+    color: $dark;
+  }
+}
+
+.social {
+  display: block;
+  vertical-align: middle;
+  margin-bottom: 0;
+  img {
+    width: 30px;
+    margin: 15px;
+  }
+  img:hover {
+    opacity: 0.5;
+  }
+}

@@ -20,8 +20,11 @@ img {
 }
 
 .description {
-  font-size: 1.5vw;
   width: 70%;
   text-align: center;
   margin: 0 auto;
+  p {
+    font-size: 1.5em;
+    color: $darkest;
+  }
 }
