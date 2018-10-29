@@ -1,6 +1,8 @@
 .title {
   color: $darkest;
   text-align: center;
+  font-size: 8.5vw;
+  margin-bottom: 30px;
 }
 
 .header-links {
@@ -12,6 +14,9 @@
   }
   li {
     display: inline-block;
+  }
+  a {
+    font-size: 2.5vh;
   }
   a:link, a:visited {
     text-decoration: none;
