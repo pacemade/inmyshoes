@@ -6,21 +6,28 @@
 }
 
 .card {
-  border: 5px $highlights solid;
+  // border: 5px $highlights solid;
   text-align: center;
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  a img {
-
+  a:hover {
+    opacity: 0.7;
+    transition: 0.3s;
+  }
+  a:hover + .stats {
+    visibility: visible;
   }
   .stats {
     color: $shadows;
+    visibility: hidden;
     position: absolute;
-    // top: 0;
-    // bottom: 0;
+    // height: 100%
     left: 0;
     right: 0;
+    p {
+      cursor: default;
+    }
   }
 }
