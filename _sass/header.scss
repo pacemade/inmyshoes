@@ -1,7 +1,6 @@
 .title {
-  color: blue;
+  color: $darkest;
   text-align: center;
-  border: 5px solid black;
 }
 
 .header_links {
@@ -14,7 +13,8 @@
   li {
     display: inline-block;
   }
-  a {
+  a:link, a:visited {
     text-decoration: none;
+    color: $dark;
   }
 }
