@@ -1,6 +1,6 @@
 .card-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 1rem;
   padding: 1rem;
 }
@@ -8,4 +8,19 @@
 .card {
   border: 5px $highlights solid;
   text-align: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a img {
+
+  }
+  .stats {
+    color: $shadows;
+    position: absolute;
+    // top: 0;
+    // bottom: 0;
+    left: 0;
+    right: 0;
+  }
 }
