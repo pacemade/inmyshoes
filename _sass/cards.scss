@@ -12,22 +12,27 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  a:hover {
-    opacity: 0.7;
+   -moz-transform: rotate(0);
+  img {
+    box-shadow: 5px 5px 5px grey;
+  }
+  img:hover {
+    opacity: 0.60;
     transition: 0.3s;
+    box-shadow: 0;
   }
   a:hover + .stats {
-    visibility: visible;
+    display: block;
   }
   .stats {
-    color: $shadows;
-    visibility: hidden;
+    pointer-events:none;
+    color: $darkest;
+    display: none;
     position: absolute;
-    // height: 100%
     left: 0;
     right: 0;
     p {
-      cursor: default;
+      cursor: pointer;
     }
   }
 }
