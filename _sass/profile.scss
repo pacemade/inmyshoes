@@ -4,17 +4,19 @@
 }
 
 .head_profile {
-  margin: 0 auto;
-  background-size: contain;
   img {
-    border-radius: 5px;
     max-height: 90vh;
-    object-fit: scale-down;
-    // width: auto;
+    object-fit: contain;
   }
 }
 
-.profile_name {
+
+.profile_header {
   text-align: center;
-  font-size: 2em;
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
 }
