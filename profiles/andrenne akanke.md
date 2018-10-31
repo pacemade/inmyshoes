@@ -1,6 +1,6 @@
 ---
 layout: profile
-person: Andrenne Doe
+person: Andrenne Akanke
 ---
 
 So as you know, my name is andrenne, artist name andrenne or im also known as drena, drena the runway diva, or… yeah! Just andrenne.
