@@ -2,6 +2,7 @@
 layout: profile
 person: Tyler Palef
 ---
+
 So as you know, my name is andrenne, artist name andrenne or im also known as drena, drena the runway diva, or… yeah! Just andrenne.
 I’m a visual artist and arts educator and entertainer, storyteller, model. I grew up in Jamaica. I grew up in Montego Bay Jamaica. I came here with my family, like in… all my family came before me, but i came over with my brother. I cam bakc in 2001 and i lived in scarborough. I grew up in scarborough, yeah, yeah yeah, so. In terms of my artistry and what inpired me to be an artist. When I was 5 years old, my cousin, I found my cousin painting and he’s a deaf painter in jamaica. I couldn't communicate with him or anything like that, but i was like “why” you know? And I went to school close by him. So whenever there were like lunch breaks or stuff like that, I would run over to see what he was doing, how far he progressed with his painting and I just remember sittingby his easel and being amazed, I wanted to learn how to paint portraits like this
 
