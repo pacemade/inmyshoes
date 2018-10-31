@@ -1,17 +1,17 @@
 - id: profiles
   imagefolder: /assets/images/portraits
   people:
-  - filename: 1.jpeg
+  - filename: tylerpalef-4.jpg
     name: Andrenne Doe
-    occupation: Superhero
+    occupation: Visual Artist/Model
     factCategory: Ice Cream
     factFact: Pikachu
     bgColor: yellow
-  - filename: 2.jpeg
-    name: Ben Yu
-    occupation: Superhero
-    factCategory: Ice Cream
-    factFact: Pikachu
+  - filename: tylerpalef-12.jpg
+    name: Tyler Palef
+    occupation: Father/Web Developer
+    factCategory: Hockey Player
+    factFact: James Reimer
     bgColor: yellow
   - filename: 3.jpeg
     name: Marty McBooBoo

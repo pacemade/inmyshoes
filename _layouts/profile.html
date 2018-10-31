@@ -5,12 +5,15 @@ layout: default
 {% for profiles in site.data.inmyshoes %}
   {% for person in profiles.people %}
     {% if person.name == page.person %}
-      <h1>{{ person.name }}</h1>
-      <img src="/assets/images/portraits/{{ person.filename }}" alt="">
+    <div class="profile_wrapper">
+      <h1 class="profile_name">{{ person.name }}</h1>
+      <div class="head_profile">
+        <img src="/assets/images/portraits/{{ person.filename }}" alt="">
+      </div>
       <h2>{{ person.occupation }}</h2>
       <h2>Favorite {{ person.factCategory }}: {{ person.factFact }}</h2>
+      <p> {{ content }} </p>
+    </div>
     {% endif %}
   {% endfor %}
 {% endfor %}
-
-<p> {{ content }} </p>

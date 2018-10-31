@@ -1,0 +1,20 @@
+.profile_wrapper {
+  width: 70%;
+  margin: 3em auto;
+}
+
+.head_profile {
+  margin: 0 auto;
+  background-size: contain;
+  img {
+    border-radius: 5px;
+    max-height: 90vh;
+    object-fit: scale-down;
+    // width: auto;
+  }
+}
+
+.profile_name {
+  text-align: center;
+  font-size: 2em;
+}
