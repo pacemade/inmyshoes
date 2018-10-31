@@ -1,75 +1,75 @@
 - id: profiles
   imagefolder: /assets/images/portraits
   people:
-  - filename: tylerpalef-4.jpg
+  - filename: andrenne.jpeg
     name: Andrenne Doe
     occupation: Visual Artist/Model
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
-  - filename: tylerpalef-12.jpg
+    playlistLink: https://www.youtube.com/watch?v=-CPCs7vVz6s&list=PLqLfWv6bj-W0BmRpwnoaUhMlTEp78iGQE
+  - filename: tylerpalef-4.jpg
     name: Tyler Palef
     occupation: Father/Web Developer
     factCategory: Hockey Player
     factFact: James Reimer
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 3.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 4.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 5.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 6.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 7.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 8.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 9.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 10.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 11.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
   - filename: 12.jpeg
     name: Marty McBooBoo
     occupation: Superhero
     factCategory: Ice Cream
     factFact: Pikachu
-    bgColor: yellow
+    playlistLink: yellow
