@@ -1,7 +1,7 @@
 .profile_wrapper {
   width: 70%;
   margin: 3em auto;
-  p, h3 {
+  p, h1, h3 {
     color: $dark;
   }
 }
@@ -25,7 +25,10 @@
 
 .playlists {
   text-align: center;
+}
 
+.disclaimer {
+  text-align: center;
 }
 
 .profile_extra1 {
@@ -39,5 +42,6 @@
   text-align: center;
   h2 {
     color: $shadows;
+    font-size: 2em;
   }
 }
