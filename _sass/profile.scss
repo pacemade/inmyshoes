@@ -1,6 +1,9 @@
 .profile_wrapper {
   width: 70%;
   margin: 3em auto;
+  p {
+    color: $dark;
+  }
 }
 
 .head_profile {
@@ -22,5 +25,19 @@
 
 .playlists {
   text-align: center;
-  
+
+}
+
+.profile_extra1 {
+  img {
+    max-height: 90vh;
+    object-fit: contain;
+  }
+}
+
+.quote {
+  text-align: center;
+  h2 {
+    color: $shadows;
+  }
 }
