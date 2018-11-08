@@ -2,10 +2,11 @@
 layout: profile
 person: Daniel Moniz
 images: ../assets/images/profile_extras/danielmoniz/danielmoniz-
-quote1:
-quote2:
-quote3:
-quote4:
+quote1: I can have interesting chats with people, help them out and that kind of thing, that’d be cool yeah, but being stopped on the street, less cool
+quote2: I feel like a robot, like a singing robot
+quote3: The more we can create analogies, relatable situations, the easier it is to learn something. I have a million of those things now, and they just all build up.
+quote4: You can pay for a show, and have paid to be entertained, but it’s not up to you what entertainment means, it’s up to the entertainer
+
 ---
 
 <h1>So... </h1>
@@ -14,7 +15,7 @@ Born in London, Ontario, moved to Aurora, so I've been in southern Ontario, more
 
 <h3 class="question">You tripped on something or?</h3>
 
-No no, I was just pushing a lawn mower (laughs)... just the worst, so.... yeah. At that point, it was a bit of a crisis, and I didn't really do anything for a bit. I basically played Starcraft for about 8 months, Starcraft 2. I got pretty good! Was in diamond when diamond was the highest league, but then it hit me that I needed to get a job. Either I get better... like I spend more than 2 hours a day on Starcraft, or I get a job, but not both. I don't like doing something.. moderately? I like to do something to get better at it. So I basically went cold turkey on Starcraft, which was surprisingly difficult and then I started applying like crazy, basically offered to work for free, doing some kind of mathematical related work, because I had no experience otherwise. Basically, a CEO picked me up, was like "Hey I'll pay you minimum wage, you can look for another job, just be transparent with me". I lived with my parents, I saved every dollar for... 6 months. And I got an interest in software development, I rekindled that interest within that time, because I’d done it throughout, a little bit in university and high school. In that period, I rekindled that interest and dove in, and that set me on my current path.
+No no, I was just pushing a lawn mower <i>(laughs)</i>... just the worst, so.... yeah. At that point, it was a bit of a crisis, and I didn't really do anything for a bit. I basically played Starcraft for about 8 months, Starcraft 2. I got pretty good! Was in diamond when diamond was the highest league, but then it hit me that I needed to get a job. Either I get better... like I spend more than 2 hours a day on Starcraft, or I get a job, but not both. I don't like doing something.. moderately? I like to do something to get better at it. So I basically went cold turkey on Starcraft, which was surprisingly difficult and then I started applying like crazy, basically offered to work for free, doing some kind of mathematical related work, because I had no experience otherwise. Basically, a CEO picked me up, was like "Hey I'll pay you minimum wage, you can look for another job, just be transparent with me". I lived with my parents, I saved every dollar for... 6 months. And I got an interest in software development, I rekindled that interest within that time, because I’d done it throughout, a little bit in university and high school. In that period, I rekindled that interest and dove in, and that set me on my current path.
 
 <h3 class="question">What are some problems that you run into now and then that you don't think other people might experience?</h3>
 
@@ -26,11 +27,20 @@ Who I would invite to a dinner party... wow, I think uhmm, I dunno if i’d surv
 
 <h3 class="question">Would you like to be famous one day? If so in what way, if not, why?</h3>
 
-Yeah I wouldn't mind. I wouldn't wanna be too famous, but it's.. the vanity in me wouldn't mind my name being known (smiles vainly). One of the side projects I have is developing a board game. I’ve been doing that for a few years, it's very close. But I... again the vanity in me just wants... I mean I want the board game published, but I want it to say "Designed by Daniel Moniz on it". So it's like "Hey who’s that guy?", and then I can have interesting chats with people, help them out and that kind of thing, that’d be cool yeah, but being stopped on the street, less cool.
+<div class="quote">
+  <h2>"{{ page.quote1 }}"</h2>
+</div>
+
+Yeah I wouldn't mind. I wouldn't wanna be too famous, but it's.. the vanity in me wouldn't mind my name being known <i>(smiles vainly)</i>. One of the side projects I have is developing a board game. I’ve been doing that for a few years, it's very close. But I... again the vanity in me just wants... I mean I want the board game published, but I want it to say "Designed by Daniel Moniz on it". So it's like "Hey who’s that guy?", and then I can have interesting chats with people, help them out and that kind of thing, that’d be cool yeah, but being stopped on the street, less cool.
 
 <h3 class="question">What would constitute the perfect day?</h3>
 
 Perfect day, I think the perfect day has to involve... some amount of... okay. Every good day necessarily constitutes something I don't want to do. If I’m left to my own devices, which I semi-frequently am, I tend to just... crumble. Its just, I work on my own, and I'll work hard on something and then I'll work too hard, and then my brain is in this weird otherworld, not in this one, and then there’s dishes piling around me. Now by and large, I’m a fairly tidy person, once I see something happen, I'll deal with it, but in the moment, I have a hard time pulling myself away. So that means that working on something like a coding problem is all consuming. So I developed a philosophy over time where every day has to have a chore essentially. Or if I'm ever feeling that weird sense of, either its boredom, or I'm stuck on something, then I'll go do the dishes or something like that. Just small things that tidy the area and I don't do them enough, but I at least do them.. somewhat? That keeps a day moving. I think it’d be some combination of "okay get up, there’s two things I have to do", bam. Then I know I have 2 hours to work on something I love, and then I have to go somewhere. Then I come back and its "okay where was I?" and then I get back into it. Then maybe it's like, spend the evening with my girlfriend or something. So it's like, it's some combination of being productive and just having to do things that I want to do.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}3.jpg" alt="sexy guy">
+  <img src="{{ page.images }}4.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">When was the last time to sang to yourself? Someone else?</h3>
 
@@ -46,7 +56,7 @@ Yeah I would, I know the answer to this. My father, as an engineer was definitel
 
 <h3 class="question">If you could wake up and gain any ability/character trait, what would it be? Why?</h3>
 
-I like to consider myself fairly well rounded, but there’s a couple gaping holes. It's a combination of things, its sort of direction sense, like a visual sense, and I tend to not look around. I mean I can do it, I can turn it on, but I don't turn it on enough. So if its like if I come in at an intersection from another direction, I might not know where I am and I'm really confused like "wait, where am I again?". It would be nice to take in my surroundings. Just be aware, there’s just so many things to be aware of and doing that puts you in the moment., and I think that makes people happier. But instead I tend to look... at, I look at all the people looking by (points at people behind). We live in tihs world of people and it's like, well, there’s other things to look at. Like, imagine I walked to work and then I was trying to describe it to someone how to get there. It would take me a bit, I mean I could do the streets, but what did I see? And I don’t remember.
+I like to consider myself fairly well rounded, but there’s a couple gaping holes. It's a combination of things, its sort of direction sense, like a visual sense, and I tend to not look around. I mean I can do it, I can turn it on, but I don't turn it on enough. So if its like if I come in at an intersection from another direction, I might not know where I am and I'm really confused like "wait, where am I again?". It would be nice to take in my surroundings. Just be aware, there’s just so many things to be aware of and doing that puts you in the moment., and I think that makes people happier. But instead I tend to look... at, I look at all the people looking by <i>(points at people behind)</i>. We live in this world of people and it's like, well, there’s other things to look at. Like, imagine I walked to work and then I was trying to describe it to someone how to get there. It would take me a bit, I mean I could do the streets, but what did I see? And I don’t remember.
 
 <h3 class="question">If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know?</h3>
 
@@ -62,21 +72,29 @@ I had some pretty big curveballs thrown at me in terms of health, and I’ve bee
 
 <h3 class="question">What did you have to do in terms of vocal therapy?</h3>
 
-A lot of it is just practising speaking in a certain way. So some of it are exercises, things like making certain sounds like, you know (sings gracefully and elegantly), things like that, just to train your mouth to sort of form around certain sounds better. Additionally, one thing though that was really weird, in order to speak like I do now, I felt like I was singing all the time. So what she wanted of me was that I... I tend to speak really low all the time. She wanted more of a "get out of that raspy mode", but also just more variance in how I speak. I told her, "I feel like a robot, like a singing robot". It was like (sing songy "I.think.that.you.should"), and eventually it becomes more natural, and you find a way to do it more naturally, but that was a very strange time.
+<div class="quote">
+  <h2>"{{ page.quote2 }}"</h2>
+</div>
+
+A lot of it is just practising speaking in a certain way. So some of it are exercises, things like making certain sounds like, you know <i>(sings gracefully and elegantly)</i>, things like that, just to train your mouth to sort of form around certain sounds better. Additionally, one thing though that was really weird, in order to speak like I do now, I felt like I was singing all the time. So what she wanted of me was that I... I tend to speak really low all the time. She wanted more of a "get out of that raspy mode", but also just more variance in how I speak. I told her, "I feel like a robot, like a singing robot". It was like <i>(with tonal shifts)</i>, "I.think.that.you.should", and eventually it becomes more natural, and you find a way to do it more naturally, but that was a very strange time.
 
 <h3 class="question">What do you value most in your friendships? Can you describe a best friend?</h3>
 
-Sure, I make no secret that I work hard to surround myself with... amazing people. Just really high caliber people, I use a term, I just call them "quality people". I also don't make it a secret that I’m very quick to judge people on this front, it’s usually the first meeting or 2. And honestly sometimes within a couple of minutes, when I see someone,  I don't know what it is, there's obviously a whole bunch of unconscious biases, but things like: eye contact (intense eye contact), assertiveness. Sometimes I meet people and something just clicks right away. That’s 100% the same with my girlfriend. We met dancing, and she had eye contact that was... un-breaking. I don't think I identified that that's what it was at the time, but I was thinking "this person is so intense, I have to get to know this person." So I think I look for a certain intensity in people, but also just pure honesty. So if I call you and want to hang out, and you don't want to, I rather you just say "Ahh, I'm not feeling it today"... "Cool! No problem, have a good day, let me know if I can do anything". Then there’s no... there’s no lying. So I've just surrounded myself with extremely honest people, which makes life drama free!
+Sure, I make no secret that I work hard to surround myself with... amazing people. Just really high caliber people, I use a term, I just call them "quality people". I also don't make it a secret that I’m very quick to judge people on this front, it’s usually the first meeting or 2. And honestly sometimes within a couple of minutes, when I see someone,  I don't know what it is, there's obviously a whole bunch of unconscious biases, but things like: eye contact <i>(intense eye contact)</i>, assertiveness. Sometimes I meet people and something just clicks right away. That’s 100% the same with my girlfriend. We met dancing, and she had eye contact that was... un-breaking. I don't think I identified that that's what it was at the time, but I was thinking, "this person is so intense, I have to get to know this person." So I think I look for a certain intensity in people, but also just pure honesty. So if I call you and want to hang out, and you don't want to, I rather you just say "Ahh, I'm not feeling it today"... "Cool! No problem, have a good day, let me know if I can do anything". Then there’s no... there’s no lying. So I've just surrounded myself with extremely honest people, which makes life drama free!
 
 In terms of a best friend, I have a few and I mean... generally they’re people that can play games with me, that’s usually the common thread. We can sit down for a board game, a video game and be silly when needed, or be really analytical when needed. I think my best friends tend to be analytical and we can have a ball doing it.
 
 <h3 class="question">What is your most treasured memory?</h3>
 
-Probably what would... could be argued to be my first date with June? We had a... we met and we spent a whole day together, and it was a beautiful summer day in Toronto, by the lakeshore, we did a bunch of random things like, there was some mini Cirque du Soleil thing going on at the stage. We went to the distillery and we saw a magician. We went to her place and watched a movie, and it was such a full, perfect memory day, yeah (smiles warmly).
+Probably what would... could be argued to be my first date with June? We had a... we met and we spent a whole day together, and it was a beautiful summer day in Toronto, by the lakeshore, we did a bunch of random things like, there was some mini Cirque du Soleil thing going on at the stage. We went to the distillery and we saw a magician. We went to her place and watched a movie, and it was such a full, perfect memory day, yeah <i>(smiles warmly)</i>.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}6.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">What is your most terrible memory?</h3>
 
-I think... school was really hard for me, I don't think I'm a very good student. It could perhaps be ironic that I'm a teacher (smiles), and that I demand excellence from my students. I think the problem is that I’m, I want to do my own thing, I always have. If there’s too much guidance, I start to crumble, I start to rebel. This affected me greatly in school. High school it started hitting me, got real depressed, but 3rd year university, I had a point where... there were some crazy things in my personal life, and in combination, the hardest courses I ever took were actually in 3rd year, not 4th year. I was just crumbling, and I was asking myself "what am I doing here?" and just falling apart.
+I think... school was really hard for me, I don't think I'm a very good student. It could perhaps be ironic that I'm a teacher <i>(smiles in Python)</i>, and that I demand excellence from my students. I think the problem is that I’m, I want to do my own thing, I always have. If there’s too much guidance, I start to crumble, I start to rebel. This affected me greatly in school. High school it started hitting me, got real depressed, but 3rd year university, I had a point where... there were some crazy things in my personal life, and in combination, the hardest courses I ever took were actually in 3rd year, not 4th year. I was just crumbling, and I was asking myself "what am I doing here?" and just falling apart.
 
 <h3 class="question">How were you able to crawl out of something like that?</h3>
 
@@ -100,7 +118,11 @@ I wish I had someone with whom I could share... creating and... running a busine
 
 <h3 class="question">What do you like most about yourself?</h3>
 
-I’m pretty self aware, and I’ve had to be, just because my brain doesn’t... for example I was never very intelligent socially, I had to basically work on that. In order to just get through, I’ve had to find my weaknesses and systematically improve. That might sound sociopathic or something (smiles sociopathically), but it’s what I’ve needed to do, and I’m pretty happy that I’ve been able to do that. Basically I’ve invested all this time in learning how to learn things quick, and I have so many different hobbies, and by now, abilities that I can pull in and find ways to get better at other things quickly. The more we can create analogies, relatable situations, the easier it is to learn something, and I have a million of those things now, and they just all build up.
+<div class="quote">
+  <h2>"{{ page.quote3 }}"</h2>
+</div>
+
+I’m pretty self aware, and I’ve had to be, just because my brain doesn’t... for example I was never very intelligent socially, I had to basically work on that. In order to just get through, I’ve had to find my weaknesses and systematically improve. That might sound sociopathic or something <i>(smiles sociopathically)</i>, but it’s what I’ve needed to do, and I’m pretty happy that I’ve been able to do that. Basically I’ve invested all this time in learning how to learn things quick, and I have so many different hobbies, and by now, abilities that I can pull in and find ways to get better at other things quickly. The more we can create analogies, relatable situations, the easier it is to learn something. I have a million of those things now, and they just all build up.
 
 <h3 class="question">Can you share an embarrassing story?</h3>
 
@@ -109,6 +131,10 @@ It was probably, realistically my first improv show. I was doing my first long-f
 <h3 class="question">How did you end up finishing the show?</h3>
 
 Someone at some point ended the scene, and I don't know if I went out after that. Someone ended it and it was just a blur after that.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}7.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">When did you last cry in front of another person? By yourself?</h3>
 
@@ -122,6 +148,10 @@ I’m of the opinion that nothing is too serious to joke about, but everything h
 
 <h3 class="question">What are your thoughts on a comedian's intention when delivering a joke versus how the audience perceives it?</h3>
 
+<div class="quote">
+  <h2>"{{ page.quote4 }}"</h2>
+</div>
+
 I have a lot of thoughts on that! I think it's difficult no matter what, this conversation would always be happening regardless of the year. At some point, someone who thinks they’ve done something right, will say "hey, it wasn't my intention to offend all these people", but that'll happen anyway. Now on the other hand, maybe that WAS their intention, and maybe that’s okay, right? There’s a place for offending people, and I think people get carried away, people have started to think that there is a line on the Canadian bill of rights that says "You don't have to be offended". There is no such line. In fact, you can pay for a show, and have paid to be entertained, but it’s not up to you what entertainment means, it’s up to the entertainer. So if you leave offended, you don't have to come back, you don't have to see a comedy show ever again, you can rant on twitter, you can do whatever you want. But that person made a choice, and it’s up to you how you handle that. Sometimes they make their own choice, but yeah, we can’t set rules in this sense, fundamentally.
 
 Just had a big discussion with some other improvisors, there’s a guy that teaches improv. He just had, some people... they were trying to do things like, Chinese accents in his class. So he says "Noooo we’re not doing this", and this person actually called him out, said was a coward, and that people like him are the reason that political correctness is destroying comedy... and I disagree. I think that while it may be destroying comedy, there is a difference between taste, and right or wrong. Sometimes things are just distasteful. If you’re learning a trade, you owe it to your instructor to trust them, that they are guiding you down the correct path. If my instructor says "Yeah you might think that’s funny, but I need you to work on different things", it's distasteful at this stage to use a Chinese accent when you’re a white dude or whatever. Then its like, maybe trust your instructor on that. However down the road, there could be an opportunity to do that, it could be hilarious, it could be offensive, and it could be exactly what we need.
@@ -133,6 +163,10 @@ I think probably, but I think more generally, the thing to be aware of is... the
 That being said, one of my favorite moments in being at a show; we went to a second city main stage show, and after they often do a little bit of improv. But in this instance, they... rather than the performers doing improv, they actually had this free bit, it was Colin Mochrie from "Who’s Line Is It Anyway?". They had him with this hypnotist, and they did this show where, this guy was supposedly hypnotizing people and then, getting them to do silly improv with Colin Mochrie, who could then make them... the hypnotist would chime in like "Do this" and Colin Mochrie would play on it. I honestly think most hypnotism is nonsense, but the funniest moment for me, was the moment when the audience, just totally... you felt the air being sucked out of the room. What happened was, this guy, the hypnotist, told this person to put on a Japanese accent, and the person goes something like "Ohhh ching chong, bing bong!" , which, is completely distasteful, and not even close. The audience, just like, the air was sucked out of the room, and me and the two improvising friends we were with, just sucking in all that air, sucking the power from the room, just basking in how... awful and hilarious it is, that all these people had to go through that. Cause they didn't wanna do that, and they didn't wanna feel offended, but they are. And there's actually in a way, a certain magic in that too. I mean, it was totally out of line, but I also loved it.
 
 Really if you perform enough, you start sensing the crowd, sometimes the crowd... you feel it. People breathe in, and you can actually hear and sense it. If you do enough of that, you start to be okay with it.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}23.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">In either improv or software development, or both, what is currently creating buzz? What’s on the up and up?</h3>
 
@@ -146,7 +180,7 @@ Uhhhm.. I dunno, I feel like maybe I would... regret not... thanking my mom for 
 
 <h3 class="question">Your house containing everything you own, catches fire. After saving your loved ones and pets, you can make a dash to save one item, what would it be, why?</h3>
 
-One item... I like my bed, but I don't think I can carry it, maybe toss it off the balcony (laughs). I always, was kind of raised with stuffed animals, we actually don't have pets. We have a bunch of stuffed animals that are like, mostly Canadian, there’s like a moose, and a bison, cool stuffed animals. They all have personalities, I’d probably grab them.
+One item... I like my bed, but I don't think I can carry it, maybe toss it off the balcony <i>(laughs)</i>. I always, was kind of raised with stuffed animals, we actually don't have pets. We have a bunch of stuffed animals that are like, mostly Canadian, there’s like a moose, and a bison, cool stuffed animals. They all have personalities, I’d probably grab them.
 
 <h3 class="question">Share a personal problem that you’re going through right now, and how you’re going about to solving that problem.</h3>
 
