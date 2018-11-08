@@ -140,7 +140,7 @@ It's all about intention, when you’re seated in you know. Having my intentions
 
 Can you share an embarassing story?
 
-Yes! (laughs) This is one that I like to share. I’ve shared this before. So one time, I was making out with this guy, and we were making out in the dark… We turn the light on... his shirt was covered in brown, makeup… his white shirt. I was wearing foundation and all this shit. And he was like “OHHH”, his reaction was like “What the fuck?”. Like how do you explain that? I was like “ohhhh noo”, so embarassed. I really had to think about, shit, how much makeup I was wearing? But its whatever, it was EMBARASSING for me, cause guys, they don't think about how we wear makeup, put on a fresh white shirt.
+Yes! (laughs) This is one that I like to share. I’ve shared this before. So one time, I was making out with this guy, and we were making out in the dark… We turn the light on... his shirt was covered in brown, makeup… his white shirt. I was wearing foundation and all this shit. And he was like “OHHH”, his reaction was like “What the fuck?”. Like how do you explain that? I was like “ohhhh noo”, so embarrassed. I really had to think about, shit, how much makeup I was wearing? But its whatever, it was EMBARRASSING for me, cause guys, they don't think about how we wear makeup, put on a fresh white shirt.
 
 What if anything, is too serious to joke about?
 
