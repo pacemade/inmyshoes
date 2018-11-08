@@ -5,7 +5,7 @@
     name: Andrenne Akanke
     firstName: Andrenne
     lastName: Akanke
-    occupation: Visual Artist/Model
+    occupation: Visual Artist | Model
     factCategory: Ice Cream
     factFact: Pikachu
     playlistLink: https://www.youtube.com/watch?v=-CPCs7vVz6s&list=PLqLfWv6bj-W0BmRpwnoaUhMlTEp78iGQE
@@ -13,17 +13,16 @@
     name: Tyler Palef
     firstName: Tyler
     lastName: Palef
-    occupation: Father/Web Developer
+    occupation: Father | Web Developer
     factCategory: Hockey Player
     factFact: James Reimer
     playlistLink: https://www.youtube.com/watch?v=Y5fBdpreJiU&list=PLqLfWv6bj-W1xk3SvM4ACCnHXgH5AxM0A
-    quote1:
   - filename: danielmoniz.jpg
     firstName: Daniel
     lastName: Moniz
     name: Daniel Moniz
-    occupation: Software Engineer/Improv Artist
-    factCategory: winner of the Space Race
+    occupation: Software Engineer | Instructor | Improv Artist
+    factCategory: Winner of the Space Race
     factFact: USSR
     playlistLink: yellow
   - filename: 4.jpeg
