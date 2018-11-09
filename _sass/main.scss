@@ -22,6 +22,15 @@ img {
   width: 100%;
 }
 
+a:link, a:visited {
+  text-decoration: none;
+  color: $shadows;
+}
+
+a:hover {
+  color: $highlights;
+}
+
 .description {
   width: 70%;
   text-align: center;
