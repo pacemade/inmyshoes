@@ -38,6 +38,16 @@
   }
 }
 
+.profile_double {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30vw, 1fr));
+  grid-gap: 1rem;
+  padding: 1rem;
+  img {
+    max-height: 100%;
+  }
+}
+
 .quote {
   text-align: center;
   h2 {

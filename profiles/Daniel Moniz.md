@@ -37,7 +37,7 @@ Yeah I wouldn't mind. I wouldn't wanna be too famous, but it's.. the vanity in m
 
 Perfect day, I think the perfect day has to involve... some amount of... okay. Every good day necessarily constitutes something I don't want to do. If I’m left to my own devices, which I semi-frequently am, I tend to just... crumble. Its just, I work on my own, and I'll work hard on something and then I'll work too hard, and then my brain is in this weird otherworld, not in this one, and then there’s dishes piling around me. Now by and large, I’m a fairly tidy person, once I see something happen, I'll deal with it, but in the moment, I have a hard time pulling myself away. So that means that working on something like a coding problem is all consuming. So I developed a philosophy over time where every day has to have a chore essentially. Or if I'm ever feeling that weird sense of, either its boredom, or I'm stuck on something, then I'll go do the dishes or something like that. Just small things that tidy the area and I don't do them enough, but I at least do them.. somewhat? That keeps a day moving. I think it’d be some combination of "okay get up, there’s two things I have to do", bam. Then I know I have 2 hours to work on something I love, and then I have to go somewhere. Then I come back and its "okay where was I?" and then I get back into it. Then maybe it's like, spend the evening with my girlfriend or something. So it's like, it's some combination of being productive and just having to do things that I want to do.
 
-<div class="profile_extra1">
+<div class="profile_double">
   <img src="{{ page.images }}3.jpg" alt="sexy guy">
   <img src="{{ page.images }}4.jpg" alt="sexy guy">
 </div>
