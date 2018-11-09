@@ -3,6 +3,12 @@
   p, h1, h3 {
     color: $dark;
   }
+  p, h2 {
+    padding-bottom: 30px;
+  }
+  p {
+    line-height: 1.7;
+  }
 }
 
 .head_profile {
@@ -49,6 +55,7 @@
 
 .quote {
   text-align: center;
+  border-left: 3px solid $shadows;
   h2 {
     color: $shadows;
     font-size: 2em;
@@ -60,8 +67,4 @@
     width: 70%;
     margin: 3em auto;
   }
-}
-
-p {
-  padding-bottom: 30px;
 }
