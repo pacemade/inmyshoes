@@ -1,5 +1,4 @@
 .profile_wrapper {
-  width: 70%;
   margin: 3em auto;
   p, h1, h3 {
     color: $dark;
@@ -53,5 +52,12 @@
   h2 {
     color: $shadows;
     font-size: 2em;
+  }
+}
+
+@media only screen and (min-width: $medium) {
+  .profile_wrapper {
+    width: 70%;
+    margin: 3em auto;
   }
 }
