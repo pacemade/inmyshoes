@@ -17,8 +17,8 @@ body {
   width: 95%;
   margin: 3em auto;
   background-color: $basecolor;
-  margin-top: 325px;
-  padding-top: 25px;
+  margin-top: 230px;
+  padding-top: 10px;
   z-index: 9999;
   position: relative;
 }
@@ -47,5 +47,12 @@ a:hover {
   }
   h3 {
     color: $darkest;
+  }
+}
+
+@media only screen and (min-width: $medium) {
+  .wrapper {
+    margin-top: 325px;
+    padding-top: 25px;
   }
 }
