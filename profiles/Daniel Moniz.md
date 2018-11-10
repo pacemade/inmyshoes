@@ -62,6 +62,10 @@ I like to consider myself fairly well rounded, but there’s a couple gaping hol
 
 What would I want to know... I’m winging it man! I don't know... I mean it might nice giving a heads up about the technological singularity or something but... by and large, I’m alright, I’m just gonna keep winging it, I don’t need to know anything.
 
+<div class="profile_extra1">
+  <img src="{{ page.images }}14.jpg" alt="sexy guy">
+</div>
+
 <h3 class="question">Is there something that you dreamed of doing for a long time, why haven’t you done it yet?</h3>
 
 I’ve aways wanted to start a company. The more I think about it, the less... the more I realize it doesn't matter. There’s so many things you can do to make money and feel fulfilled in doing those things. Realistically though, my skills are in computers and programming and communication, solving problems. So something in that realm? I have side projects that I would love to actually finish. They could make some money and so I have some regret in not finishing these projects, in some way i think that’s what holds me back.

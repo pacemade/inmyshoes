@@ -30,13 +30,14 @@ So basically from there, my dream went away, just got be like "Hey come on man g
 
 I felt like the father figure should be responsible, be the bread winner, it's a very outdated outlook you’d think. But at your core, you still feel like you want to take care of this thing that’s yours, you don't wanna rely on others. That was kind of the outlook, that’s why I jumped to the first job that came my way, and worked really hard towards being able to work from home. Then eventually, basically 2 years of grinding at that job, having that focus of being the bread winner being ingrained in your mind, my girlfriend at the time, Zoe's mom, was like over it, right? You choose between being a good dad, being a good worker, being a good partner. Well I'm like "I need to be a good worker because I needed to work from home, need to make more money, need to be a good parent because I value being a good parent, and then, you lose it (Zoe’s mother). It's kind of like that sleep, study, friends, triangle you get when you were a student. So that was something that, of the three, pick two. I had to pick two. And then in hindsight I feel like I put too much into that job, but I have always been ambitious since having a kid because I want her to have the life I had, and when you’re single at the start of your career, you need to work really hard to get to the salaries my parents had when I was Zoe's age. So I'm always thinking, how can I give her the things that I had as a kid? And that’s what motivates me.
 
+<div class="profile_double">
+  <img src="{{ page.images }}12.jpg" alt="sexy guy">
+  <img src="{{ page.images }}18.jpg" alt="sexy guy">
+</div>
+
 <h3 class="question">So being a father and a full-fledged, full-stack developer, what are some problems that you dealt with that you think other may not have experienced themselves?</h3>
 
 Yeaaaah, I mean, its hard to find time, they say you want to code every day, like out of Friday, Saturday, Sunday, I can only code Sunday night, because I'm with Zoe Friday, Saturday, Sunday, and like honestly, that works because if I was with her more, then I'm just taking her to daycare and coding during the day. I’d say its hard to find time for yourself, it really is, it makes your life kinda feel like… I’ve gained a lot of weight when I was working, being a good partner, and being with Zo. Because you have no time to be social, and maybe you get half and hour or an hour, it felt like a prison a little bit, where you just felt like you were constantly doing things that other people want. I think that’s what other people like, the teenage, rebellion phase, like all "don't tell me what to do". When I was working as tech support, thats what I felt like every single day, that I'm spending 8 hours doing something I don't really want to do, and then I have to see a movie that I don't really want to see, but I want to make her happy, and then after that I'm picking Zoe up and making sure she goes to sleep, and its hard to get her to fall asleep and maybe at 9:30. Then its like, 9:30, I have work at 7 in the morning the next day, maybe play games for an hour? Work out for 10 minutes <i>(laughs)</i> do a push up I'm done, I worked out. My whole life just sorta methodical, I check boxes, boom boom boom, it's all an array. That’s how I kind of keep track of it, cause you’re really busy, you want to make sure you’re hitting your goals. I have a day planner but, there’s also sorta similarities as well. So when you’re working in JavaScript and its like you’re trying to call a callback function, its like "Oh it's coming back as undefined, I never declared this variable". Well same thing can happen with the kid, where it's like "Do you want to go for a walk?" and its like, okay… now your kids confused, so now you’re like "Oh, I never defined what walk was before, therefore the sentence doesn't make sense!". So you start thinking that it relates a little bit in the sense that kid's a little bit, you know, not super asynchronous.
-
-<div class="profile_extra1">
-  <img src="{{ page.images }}12.jpg" alt="sexy guy">
-</div>
 
 <h3 class="question">Given the choice of anyone in the world, dead or alive, who would you invite to a dinner party?</h3>
 
@@ -53,6 +54,10 @@ I think there're pros and cons to being famous, because you like being heard and
 <h3 class="question">For you, what would constitute the perfect day? From when you wake up to when you sleep.</h3>
 
 Wake up, work on a passion project, do my Codewars, see Danny, get interviewed. But probably get a couple of emails back about job stuff, because I feel like I'm being productive and working towards something. Codewars also feels like I'm working towards something, flexing, working out obviously to be healthier. Uhhm, review some past projects, just to get it to sink in better, get a better understanding. Probably seeing Zoe, taking her somewhere happy, making her smile, taking Instagram photos, that sorta stuff. Hitting the basis of self improvement, and when I'm with Zo, I value my kid right? So I wanna make sure that uhhmm… spend time with her, and then my girlfriend Michelle, hang out with her afterwards, yeeeeeaahhh….
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}13.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">When was the last time you sang to yourself? and what song were singing, what were you doing?</h3>
 
@@ -96,7 +101,7 @@ I think the thing I value the most, the most common trait is that you can pick u
 I think that its gonna be tacky, but probably Zoe, it's pretty obvious. You kinda live a little bit vicariously through her, but theres something special. I don't know if you want kids, or even if you had a dog before, it's kinda like the same thing. Have you ever trained your dog how to do something? I guess what I'm trying to say is, you take your kid to daycare right? She comes back and she's like "Hi dad", and normally it be whatever, but she never said that before, like doing a greeting was something totally foreign. Every time, you never know what she's going to say or do, so you really appreciate that cause like, that’s her! And she's growing, she's learning and she's becoming so much better, and that to me, is my greatest accomplishment, is that everything she does, I'm proud of, and it's mine!
 
 <div class="profile_extra1">
-  <img src="{{ page.images }}10.jpg" alt="sexy guy">
+  <img src="{{ page.images }}11.jpg" alt="sexy guy">
 </div>
 
 <h3 class="question">What is your most treasured memory?</h3>
@@ -116,6 +121,10 @@ Like when I had my accident it was fine, I wasn't hurt he wasn't hurt, my parent
 <h3 class="question">What roles do love and affection play in your life?</h3>
 
 I think that it's interesting because, I feel like when you're not a relationship or anything, the thing with time, with me going back to school is that you have so much time to yourself. So even before the classes you can go exercise, you can go at all this coding and play games, you can do whatever, hang with your buddies. you have all this freedom and you can be your best possible self. Like I think fitness wise I was 170, my goal is 165, I prefer to be lean than bulky, but fuck, donuts taste good. But one the thing is, is that you're working out, you're doing all these things and going through all these experiences, but you have no one to necessarily share it with, and that's where love and affection come into play. I felt like it wasn't fulfilling without it and that's when Michelle came in and she's like, obviously I gained some weight but at the end of day, I'm a lot happier. I would feel kind of bored you know? You can watch only so many YouTube videos. Yeah, it just felt, I felt too "productive" and not enough like "Okay what else can I do?".
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}8.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">And how close and warm are you to your family?</h3>
 
