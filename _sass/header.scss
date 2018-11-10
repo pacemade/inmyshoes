@@ -25,6 +25,18 @@
   }
 }
 
+.header-container {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+}
+
+.header {
+  margin: 0 auto;
+
+}
+
+
 @media only screen and (min-width: $medium) {
   .title {
     font-size: 8em;
@@ -35,16 +47,3 @@
     }
   }
 }
-
-
-//
-// .header-container {
-//   position: fixed;
-//   width: 100%;
-//   top: 0px;
-//
-// }
-//
-// .header {
-//   margin: 0 auto;
-// }

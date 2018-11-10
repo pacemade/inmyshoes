@@ -16,6 +16,10 @@ body {
 .wrapper {
   width: 95%;
   margin: 3em auto;
+  background-color: $basecolor;
+  margin-top: 350px;
+  z-index: 9999;
+  position: relative;
 }
 
 img {
