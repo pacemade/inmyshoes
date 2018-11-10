@@ -13,6 +13,7 @@ body {
   background-color: $basecolor;
 }
 
+// wrapper is essentially body, on top of header fo cool scrolling action
 .wrapper {
   width: 95%;
   margin: 3em auto;
@@ -40,6 +41,7 @@ a:hover {
   width: 70%;
   text-align: center;
   margin: 0 auto;
+  padding-bottom: 25px;
   p {
     font-size: 2.0em;
     color: $darkest;
@@ -50,6 +52,7 @@ a:hover {
   }
 }
 
+// margin change to accomadate font size change
 @media only screen and (min-width: $medium) {
   .wrapper {
     margin-top: 325px;

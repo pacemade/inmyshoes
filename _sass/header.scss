@@ -25,6 +25,7 @@
   }
 }
 
+// this fixes title and lets it be overlapped
 .header-container {
   position: fixed;
   width: 100%;
@@ -36,7 +37,7 @@
 
 }
 
-
+// title font changes
 @media only screen and (min-width: $medium) {
   .title {
     font-size: 8em;
