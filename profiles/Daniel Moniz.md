@@ -23,7 +23,7 @@ I don't think people are used to the degree of, sort of abstract, logical though
 
 <h3 class="question">Given the choice of anyone in the world, dead or alive, who would you invite to a dinner party? Why?</h3>
 
-Who I would invite to a dinner party... wow, I think uhmm, I dunno if i’d survive, but I think it’d be pretty crazy to invite Genghis Khan and just, really dig in, like what was this guy all about? It was such a flash in the pan of, you know, the largest empire the world has ever seen, and within 100 years, just disappeared basically. That would be really interesting.
+Who I would invite to a dinner party... wow, I think uhmm, I dunno if I’d survive, but I think it’d be pretty crazy to invite Genghis Khan and just, really dig in, like what was this guy all about? It was such a flash in the pan of, you know, the largest empire the world has ever seen, and within 100 years, just disappeared basically. That would be really interesting.
 
 <h3 class="question">Would you like to be famous one day? If so in what way, if not, why?</h3>
 

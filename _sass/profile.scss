@@ -4,10 +4,14 @@
     color: $dark;
   }
   p, h2 {
-    padding-bottom: 30px;
+    padding: 0px 15px 30px 15px;
   }
   p {
     line-height: 1.7;
+  }
+  h3 {
+    padding: 0px 5px 10px 5px;
+
   }
 }
 
@@ -40,6 +44,7 @@
   img {
     max-height: 90vh;
     object-fit: contain;
+    padding-bottom: 30px;
   }
 }
 
@@ -48,6 +53,7 @@
   grid-template-columns: repeat(auto-fit, minmax(30vw, 1fr));
   grid-gap: 1rem;
   padding: 1rem;
+  padding-bottom: 30px;
   img {
     max-height: 100%;
   }
