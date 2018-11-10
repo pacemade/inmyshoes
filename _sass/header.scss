@@ -1,7 +1,7 @@
 .title {
   color: $darkest;
   text-align: center;
-  font-size: 8.5vw;
+  font-size: 5em;
   margin-bottom: 30px;
 }
 
@@ -21,6 +21,30 @@
     padding-right: 1vw;
   }
   a, li {
-    font-size: 3.0vw;
+    font-size: 1.2em;
   }
 }
+
+@media only screen and (min-width: $medium) {
+  .title {
+    font-size: 8em;
+  }
+  .header-links {
+    a, li {
+      font-size: 1.5em;
+    }
+  }
+}
+
+
+//
+// .header-container {
+//   position: fixed;
+//   width: 100%;
+//   top: 0px;
+//
+// }
+//
+// .header {
+//   margin: 0 auto;
+// }
