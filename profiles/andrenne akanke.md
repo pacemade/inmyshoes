@@ -9,7 +9,7 @@ quote4: Just focus on doing you, you know? Just do it with the intent, good, bad
 
 <h1>So as you know,</h1>
 
-my name is Andrenne, artist name Andrenne or I'm also known as Drena, Drena the runway diva, or… yeah! Just Andrenne.
+My name is Andrenne, artist name Andrenne or I'm also known as Drena, Drena the runway diva, or… yeah! Just Andrenne.
 I’m a visual artist and arts educator and entertainer, storyteller, model. I grew up in Montego Bay Jamaica. I came here with my family, like… all my family came before me, but I came over with my brother. I came back in 2001 and I lived in Scarborough, I grew up in Scarborough. In terms of my artistry and what inspired me to be an artist... when I was 5 years old, my cousin, I found my cousin painting and he’s a deaf painter in Jamaica. I couldn't communicate with him or anything like that, but I was like “Why?”, you know? And I went to school close by him. So whenever there were like lunch breaks or stuff like that, I would run over to see what he was doing, how far he progressed with his painting and I just remember sitting by his easel and being amazed, I wanted to learn how to paint portraits like this.
 
 So anyways, years later, to fast forward, immigrated to Canada right? Scarborough. Then I had my first official art class with actual art teachers, just focused. Before it was kinda like, I just would make things out of whatever I found, you know? Like on the floor, garbage or anything pretty much, just came up with like sculptures, or just things like that. But I wanted to paint, I wanted to be a painter, I had that dream. So I moved here and had my first art class in grade 7.
