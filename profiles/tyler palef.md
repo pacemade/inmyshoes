@@ -16,7 +16,7 @@ Its sorta like, interesting to look back at your life and sum it up or say who y
 
 High school, kinda felt like things were falling into place a little bit. I didn't know what I wanted to be until maybe around Facebook? That sorta thing? Like I'm going to make an app, make a lot of money, all that sorta stuff... like I never really considered myself someone who would work 9-5. Just do the one big thing, because to me... I value time really more than anything else in a way. I don't mind spending 30 bucks here and there, like almost in the way of shipping. Do you wanna wait possibly 2-3 weeks for something or would you rather pay 50 bucks to get it the next day? That’s the same way I view time; I view my time as something worthwhile. I didn't want to be committed to somewhere like the place I used to work, where I had to commute—losing 8 hours a day basically. So that was a struggle... but in high school I was really high on myself and thought the world was my oyster.
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote1 }}"</h2>
 </div>
 
