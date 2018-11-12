@@ -13,6 +13,10 @@ body {
   background-color: $basecolor;
 }
 
+.changeColor {
+  background-color: black;
+}
+
 // wrapper is essentially body, on top of header fo cool scrolling action
 .wrapper {
   width: 95%;

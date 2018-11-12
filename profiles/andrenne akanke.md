@@ -1,6 +1,7 @@
 ---
 layout: profile
 person: Andrenne Akanke
+images: ../assets/images/profile_extras/andrenne_akanke/andrenneakanke-
 quote1: But its too late for me, like I’ve already fallen in love with ME, I've already fallen in love with the journey
 quote2: To always be in a place where I can see everyone as a reflection of me. Where we're not disconnected...
 quote3: When you wanna talk about REAL HARD SHIT to do, it’s really forgiving people
@@ -28,6 +29,10 @@ I taught art for quite some time, like for a long time I taught kids. Through th
 
 Its like I HAVE to create, like I can’t see myself NOT creating, I’ve always been a creative. I’ve always been the type of person where shes like “Oh I can't afford it? Okay cool, well I’m going to use, make something out of this” and then it turns to something that people are like “Oh woooooow, what is that?” or something that people just have never seen before, or something that people want more of, right? That gave me confidence and yeah, so when I had tools that were actual tools that you know came from an art store, an actual paint palette, its like “Okay” it was time for me to master that as well and take it to the next level.
 
+<div class="profile_extra1">
+  <img src="{{ page.images }}6.jpg" alt="sexy girl">
+</div>
+
 <h3 class="question">From teaching children, I remember you told me at one point you were an art curator, you helped people put on art shows, how did that come to be?</h3>
 
 I have a lot of experience uhmmm……putting shows together, I volunteered with galleries to put their shows on, and I was young, sooo... (laughs) I was young, so it didnt really…. I don't know they gave me opportunities to put my work too. They’d be like “Ohh you can put your work in the show, like you're helping you can sell it”, and that was my introduction to professional art gallery shows. Yeah, did that for a few years.
@@ -49,6 +54,10 @@ Well you have me being female, right? Uhh, there are challenges that come with t
 I feel like I’ve always been the same person, thats one thing. In high school I definitely was on the side of the fence that was like …. I had to work my way into being “cool”, I had to work my way into being respected, I had to work for that. And that comes with, not so much work with other people, but more so like, work on yourself. So when somebody believes you, or somebody teases you, or somebody puts you down, you really go home and you really let those messages eat you away and tear you down, or you do the work on yourself and realize that “naw thats not true”, and theres something special about me and I'm going to share that with the world. That's what you’re gonna see, that confidence. And people have no choice but to love it and accept it and thats ALL they see, I mean, people see what you want them to see, right?
 
 So something I share with people is to basically turn water into wine (laughs) you know what I mean? With that pain, with that thing, that very thing that is either put down, or forbidden, or not celebrated by other people is the very thing that makes you unique, right? So I would say to spend time with that thing and to examine that thing. And if you spend enough time with it, you realize that it’s something to love and to show, as opposed to something to be insecure about, or let stop you.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}3.jpg" alt="sexy guy">
+</div>
 
 <h3 class="question">Would you like to famous and in what way?</h3>
 
@@ -84,7 +93,13 @@ ha! that i sang to myself? uhmmm… wow… probably last night, but I can't reca
 
 <h3 class="question">For what in life are you most grateful for?</h3>
 
-I'm grateful for… I'm greatful for people. People that I can connect with and learn from and build with, like I appreciate that. Just connections. Some people are complete opposite, they don't want anyhting to do with people right? Yeah for me, I try to learn soemthing from everyone, like where would I be with people? Like I mean I sure it'll be okay too, but even if not people, I also consider all things, like all living things, like living, and teaching right?
+I'm grateful for… I'm grateful for people. People that I can connect with and learn from and build with, like I appreciate that. Just connections. Some people are complete opposite, they don't want anything to do with people right? Yeah for me, I try to learn something from everyone, like where would I be with people? Like I mean I sure it'll be okay too, but even if not people, I also consider all things, like all living things, like living, and teaching right?
+
+<div class="profile_double">
+  <img src="{{ page.images }}.jpg" alt="sexy girl">
+  <img src="{{ page.images }}2.jpg" alt="sexy girl">
+</div>
+
 
 <h3 class="question">If you change anything in how you were raised or how you grew up, how would you change it?</h3>
 
@@ -92,7 +107,7 @@ If I could change anything… hmm… how I was raised… hmmm… OH hmm, I would
 
 <h3 class="question">So you think you would gotten to where you are now quicker?</h3>
 
-I dunno about that, I feel like we are where we are, and thats just what it is! But if I had to say something it’s just, yeah I’ve always been an explorer and I’ve always liked that and I think (laughs), I mean I get the whole “NO, dont go over there, NO dah-duh-dah-duh-dah”. Like I don't even know Jamaica as much as I would like to, I didn't really get to travel, go places. Even my family, they make fun of me because of that, like “You don't know anywhere in Jamaica, you don't know anything!”. They're kinda right, yeah. It was very different when I came here though.
+I dunno about that, I feel like we are where we are, and thats just what it is! But if I had to say something it’s just, yeah I’ve always been an explorer and I’ve always liked that and I think (laughs), I mean I get the whole “NO, don't go over there, NO dah-duh-dah-duh-dah”. Like I don't even know Jamaica as much as I would like to, I didn't really get to travel, go places. Even my family, they make fun of me because of that, like “You don't know anywhere in Jamaica, you don't know anything!”. They're kinda right, yeah. It was very different when I came here though.
 
 <h3 class="question">Do you have plans of going back?</h3>
 
@@ -119,6 +134,10 @@ No no, no-no-no! These things, these things are very ahh... I think I wouldn't s
 <h3 class="question">What do you value most in your friendships? Can you describe a best friend?</h3>
 
 Ohh what do I value the most? In a friendship? Mmm (thinks)… most.. I'm gonna say loyalty. Loyalty is real, it's real big. Loyalty is a big big thing. And describe a best friend? (laughs) no, I don't, I don't really, I don't have best friends (laughs). I don't believe in those things, but I think loyalty is important and uhh…. okay I shouldn't say I don't have a best friend, I dunno what Im saying, like a particular person, individual? I don't give too many people THAT title, because (laughs), that’s setting yourself up you know?
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}8.jpg" alt="sexy girl">
+</div>
 
 <h3 class="question">What is your most treasured memory?</h3>
 
@@ -157,6 +176,10 @@ Yes! (laughs) This is one that I like to share. I’ve shared this before. So on
 <h3 class="question">What, if anything, is too serious to joke about?</h3>
 
 What is too serious to joke about? uhhhhhmm…. disabilities. I don't like that, I don't like that, it's just sometimes people can't really help who they are, and when people make fun of that shit, it's just, it's not far off from making fun of people who look the way that they do. Like you came out of the womb like that, who are you to say that you're better than this person, who are you to say this person is ugly, or this person is uhhm, ohh like “retarded” like those words. I mean like, dunno, just, I don't like putdowns basically.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}9.jpg" alt="sexy girl">
+</div>
 
 <h3 class="question">What is currently creating buzz in your professional fields, what's on the up and up?</h3>
 

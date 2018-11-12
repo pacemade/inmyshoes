@@ -1,8 +1,15 @@
 window.onload = function () {
-  const wrapperEle = document.getElementsByClassName("wrapper")[0];
+  const wrapperEle = document.getElementsByClassName("header-container")[0];
 
   const titleOpacity = () => {
-    console.log("poopoo");
+
+    if ($(this).scrollTop() > 50) {
+      console.log("top");
+    }
+    if ($(this).scrollTop() < 50) {
+      console.log("down");
+    }
+
   }
 
   document.body.addEventListener("scroll", titleOpacity)
