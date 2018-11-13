@@ -10,6 +10,10 @@ quote4: You try to have a normal conversation, or you say things that's like, ba
 
 <h1>Oh man...</h1>
 
+<div class="quote to-fade-up">
+  <h2>"{{ page.quote1 }}"</h2>
+</div>
+
 Alright, so the story starts... I was actually a planned baby, so we're going waaaay back. Who I was... story of my life, good planning... Actually it’s ironic, but I was planned so... I was in vitro, that means I was a petri-dish baby? My parents actually wanted me and from there and the rest of it is downhill!
 
 Its sorta like, interesting to look back at your life and sum it up or say who you are. You wanna come off humble, because you know how everybody sees themselves differently? Still not answering the question yet. Who am I... My childhood was... my parents did a really good job of trying to put my interests first. Did you ever have to like, get schlucked along when your brother had something to do? My parents were really solid in that they let me go home. So it’s like they really did a good job of putting me first. However, there were experiences that I feel I missed out on because they were so nurturing. Things like going to camp: I didn't like getting dirty so they’re like "Oh you don't have to go to camp, thats cool", but like, you know... then you kinda miss that. Now I'm like what, 23? Almost turning 24 and it'd be weird if I went to camp with a bunch of kids. But in the end I think my childhood was really good... lots of video games. I was a bit of uhhh... I think the guy that you know now—sorta jokey, that stuff... I wasn’t always like this. I really didn't come out of my shell until nearly the end of middle school, think the middle of grade 7, grade 8. Before then... super shy, very reserved. Uhhm... one of my birthday parties and this might be sad, though also funny; see I was stoked for the Gamecube to come out, so I got Mario Party, and like.... have you ever thrown a party where only half the people come? Have you ever thrown a party where you only invited 2 people and only 1 one of them showed up <i>(laughs)</i>? It was something else, it was a time.

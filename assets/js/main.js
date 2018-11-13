@@ -48,6 +48,7 @@ window.onload = function () {
       }
     });
   }
+}
 
   // var animateHTML = function() {
   //   var elems;
@@ -79,5 +80,3 @@ window.onload = function () {
   //   };
   // };
   // animateHTML().init();
-
-}
