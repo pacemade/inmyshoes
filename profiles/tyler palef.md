@@ -10,10 +10,6 @@ quote4: You try to have a normal conversation, or you say things that's like, ba
 
 <h1>Oh man...</h1>
 
-<div class="quote to-fade-up">
-  <h2>"{{ page.quote1 }}"</h2>
-</div>
-
 Alright, so the story starts... I was actually a planned baby, so we're going waaaay back. Who I was... story of my life, good planning... Actually it’s ironic, but I was planned so... I was in vitro, that means I was a petri-dish baby? My parents actually wanted me and from there and the rest of it is downhill!
 
 Its sorta like, interesting to look back at your life and sum it up or say who you are. You wanna come off humble, because you know how everybody sees themselves differently? Still not answering the question yet. Who am I... My childhood was... my parents did a really good job of trying to put my interests first. Did you ever have to like, get schlucked along when your brother had something to do? My parents were really solid in that they let me go home. So it’s like they really did a good job of putting me first. However, there were experiences that I feel I missed out on because they were so nurturing. Things like going to camp: I didn't like getting dirty so they’re like "Oh you don't have to go to camp, thats cool", but like, you know... then you kinda miss that. Now I'm like what, 23? Almost turning 24 and it'd be weird if I went to camp with a bunch of kids. But in the end I think my childhood was really good... lots of video games. I was a bit of uhhh... I think the guy that you know now—sorta jokey, that stuff... I wasn’t always like this. I really didn't come out of my shell until nearly the end of middle school, think the middle of grade 7, grade 8. Before then... super shy, very reserved. Uhhm... one of my birthday parties and this might be sad, though also funny; see I was stoked for the Gamecube to come out, so I got Mario Party, and like.... have you ever thrown a party where only half the people come? Have you ever thrown a party where you only invited 2 people and only 1 one of them showed up <i>(laughs)</i>? It was something else, it was a time.
@@ -77,7 +73,7 @@ I think it was like, me and my girlfriend sing in the car a LOT, so probably lik
 
 <h3 class="question">For what in life are you most grateful for?</h3>
 
-<div class="quote">
+<div class="quoteto-fade-up">
   <h2>"{{ page.quote2 }}"</h2>
 </div>
 
@@ -116,7 +112,7 @@ Uhmm, hmmm... I think another moment probably with Zo. When your kid is born; ty
 
 Yeah so probably would've been finding out about about pregnancy—it's something that I don't forget. Maybe more-so through March like 2015, basically through January, March, April and May. Yeah it would've been 2015 in March like it's ingrained in my head because she was throwing up and all the signs were all... "Oh maybe she's sick". It's like "No way"... right? So then I went to my class, took a selfie with the boys, whatever. I remember that one day really well and it just, now I'm thinking like, "Man this is a fork in the road", either of my life is going to keep going on the path that's been going my entire life: avoiding issues, nurturing, or it's going to go this other path right? So what ended up happening was we went to...  did you ever go to the Dundas Square? So I'm being very descriptive of this, basically we went into the shoppers below AMC, grabbed like a couple of tests because you can never know and right there it's like a Five Guys. So I gave her the pregnancy test and told her to use the bathroom over there or over there. She comes out and she starts crying so you have to be like... were these tears of joy or tears of not good? We didn't even eat that night. We got the food before because we were going to celebrate the "good news". But we went back to my place which was a shitty area and then at that point... it was one of the hardest things because she was very Christian. Like she thought she could never get pregnant blah-blah-blah, it was very out of left field and she had this whole thing about it at the time. We were thinking like adoption or something and she was like "No I want to keep it", and so then you kind of have this realization that you're powerless, completely.
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote3 }}"</h2>
 </div>
 
@@ -160,7 +156,7 @@ I think, now that I have a kid... I think that I'm not into the pro-life, pro-ch
 
 <h3 class="question">If you were to die this evening, with no opportunity to communicate with anyone, what would you regret not having told someone?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote4 }}"</h2>
 </div>
 

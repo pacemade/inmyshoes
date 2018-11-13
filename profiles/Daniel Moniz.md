@@ -27,7 +27,7 @@ Who I would invite to a dinner party... wow, I think uhmm... I dunno if I’d su
 
 <h3 class="question">Would you like to be famous one day? If so in what way, if not, why?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote1 }}"</h2>
 </div>
 
@@ -76,7 +76,7 @@ I had some pretty big curveballs thrown at me in terms of health, and I’ve bee
 
 <h3 class="question">What did you have to do in terms of vocal therapy?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote2 }}"</h2>
 </div>
 
@@ -122,7 +122,7 @@ I wish I had someone with whom I could share... creating and... running a busine
 
 <h3 class="question">What do you like most about yourself?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote3 }}"</h2>
 </div>
 
@@ -152,7 +152,7 @@ I’m of the opinion that nothing is too serious to joke about, but everything h
 
 <h3 class="question">What are your thoughts on a comedian's intention when delivering a joke versus how the audience perceives it?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote4 }}"</h2>
 </div>
 

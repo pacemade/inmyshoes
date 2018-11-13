@@ -44,7 +44,7 @@ For the last couple years, I was thinking about doing my show, because I realize
 
 <h3 class="question">So being who you are, doing what you do, what're some problems that you deal with that other people might not experience? What are some issues or hustles that you had to put yourself through?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote1 }}"</h2>
 </div>
 
@@ -82,7 +82,7 @@ I say that because we spend so much time running from ourselves right? Just hati
 
 <h3 class="question">What would constitute a perfect day for you, from the moment you wake up, to when you go to bed?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote2 }}"</h2>
 </div>
 
@@ -126,7 +126,7 @@ Greatest accomplishment? <i>(laughs)</i> for me, I know this is gonna sound... o
 
 <h3 class="question">Wow, that's a good insight, because I was expecting the answer to be something else, like your art show!</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote3 }}"</h2>
 </div>
 
@@ -162,7 +162,7 @@ Hmm... shaaare... vibes with! <i>(laughs)</i>, like build with, create with. But
 
 <h3 class="question">What do you like most about yourself?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
   <h2>"{{ page.quote4 }}"</h2>
 </div>
 
@@ -189,7 +189,7 @@ The up and up?..... MEEE, MEEE, anything that I dooooo! <i>(laughs)</i>. I mean 
 
 <h3 class="question">So when people are reading your profile, I kinda want to give a playlist for them to get into your head, any songs they could listen to to get a good idea of what goes on in Andrenne's head?</h3>
 
-<div class="quote">
+<div class="quote to-fade-up">
 <h2>"{{ page.quote5 }}"</h2>
 </div>
 
