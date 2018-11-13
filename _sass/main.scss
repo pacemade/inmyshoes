@@ -3,6 +3,7 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
+  // dont remember what this overflox-x hidden was even for
   // overflow-x: hidden;
   // font-family: 'Nunito', sans-serif;
   // font-family: 'Roboto Slab', serif;
@@ -22,7 +23,7 @@ body {
   width: 95%;
   margin: 3em auto;
   background-color: $basecolor;
-  margin-top: 230px;
+  // margin-top: 230px;
   padding-top: 10px;
   z-index: 9999;
   position: relative;
@@ -59,7 +60,7 @@ a:hover {
 // margin change to accomadate font size change
 @media only screen and (min-width: $medium) {
   .wrapper {
-    margin-top: 325px;
+    // margin-top: 325px;
     padding-top: 25px;
   }
 }

@@ -24,16 +24,17 @@
     box-shadow: none;
   }
   a:hover + .stats {
-    display: block;
+    opacity: 1;
+    -webkit-transform: translateZ(0);
   }
   .stats {
     color: $darkest;
-    display: none;
     position: absolute;
-    left: 0;
-    right: 0;
+    // left: 0;
+    // right: 0;
     pointer-events:none;
-    transition: 0.3s;
+    transition: 0.5s;
+    opacity: 0;
     p {
       font-size: 1.3em;
       cursor: pointer;
