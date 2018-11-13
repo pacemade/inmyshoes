@@ -26,6 +26,7 @@
   a:hover + .stats {
     opacity: 1;
     -webkit-transform: translateZ(0);
+    transform: scale(0.9)
   }
   .stats {
     color: $darkest;
@@ -33,10 +34,11 @@
     // left: 0;
     // right: 0;
     pointer-events:none;
-    transition: 0.5s;
+    transition: 0.3s;
     opacity: 0;
+    // transform: scale(1.5)
     p {
-      font-size: 1.3em;
+      font-size: 1.5em;
       cursor: pointer;
     }
   }
