@@ -9,7 +9,7 @@ quote4: Just focus on doing you, you know? Just do it with the intent, good, bad
 quote5: We can all meet on a vibe, a frequency of creating and loving and enjoying it, enjoying the process, and that’s what it’s about.
 ---
 
-<h1>So as you know...</h1>
+<h1 class="to-fade-up">So as you know...</h1>
 
 My name is Andrenne, artist name Andrenne. I'm also known as Drena, Drena the runway diva, or... yeah!
 I’m a visual artist, arts educator, entertainer, storyteller and model. I grew up in Montego Bay Jamaica. I came here with my family, like... all my other family came before me, but I came over with my brother. I came back in 2001 and lived in Scarborough, I grew up in Scarborough. In terms of my artistry and what inspired me to be an artist... when I was 5 years old, my cousin... I found my cousin painting; a deaf painter in Jamaica. I couldn't communicate with him or anything like that, but I was like “Why?” You know? I went to school close by him. So whenever there were like lunch breaks or stuff like that, I would run over to see what he was doing... how far he progressed with his painting and I just remember sitting by his easel and being amazed, I wanted to learn how to paint portraits like this.

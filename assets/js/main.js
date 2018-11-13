@@ -1,24 +1,6 @@
 window.onload = function () {
 
-  // const wrapperEle = document.getElementsByClassName("header-container")[0];
-  //
-  // const titleOpacity = () => {
-  //
-  //   if ($(this).scrollTop() > 50) {
-  //     console.log("top");
-  //   }
-  //   if ($(this).scrollTop() < 50) {
-  //     console.log("down");
-  //   }
-  //
-  // }
-  //
-  // document.body.addEventListener("scroll", titleOpacity)
-  //
-  // console.log(wrapperEle);
-
-
-  // Fade in quotes
+  // Fade Up
 
   //Cache reference to window and animation items
   var $animation_elements = $('.to-fade-up');
@@ -43,9 +25,24 @@ window.onload = function () {
       if ((element_bottom_position >= window_top_position) &&
           (element_top_position <= window_bottom_position)) {
         $element.addClass('faded-up');
-      } else {
-        $element.removeClass('faded-up');
+      // } else {
+      //   $element.removeClass('faded-up');
       }
     });
   }
+
+
+// page transition
+
+  $(".card a").on("click", function(event) {
+    console.log(event);
+    event.preventDefault();
+
+    const href = $(this).attr("href")
+
+    window.history.pushState(null, null, href)
+
+
+  });
+
 }

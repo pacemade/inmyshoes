@@ -24,7 +24,7 @@ body {
   margin: 3em auto;
   background-color: $basecolor;
   // margin-top: 230px;
-  padding-top: 10px;
+  // padding-top: 10px;
   z-index: 9999;
   position: relative;
 }
@@ -61,6 +61,6 @@ a:hover {
 @media only screen and (min-width: $medium) {
   .wrapper {
     // margin-top: 325px;
-    padding-top: 25px;
+    // padding-top: 25px;
   }
 }

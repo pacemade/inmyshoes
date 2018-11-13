@@ -8,7 +8,7 @@ quote3: I think I just sat in the bathtub, cold water, nothing
 quote4: You try to have a normal conversation, or you say things that's like, basically their eulogy for them
 ---
 
-<h1>Oh man...</h1>
+<h1 class="to-fade-up">Oh man...</h1>
 
 Alright, so the story starts... I was actually a planned baby, so we're going waaaay back. Who I was... story of my life, good planning... Actually it’s ironic, but I was planned so... I was in vitro, that means I was a petri-dish baby? My parents actually wanted me and from there and the rest of it is downhill!
 
