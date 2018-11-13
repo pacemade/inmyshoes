@@ -10,7 +10,7 @@ layout: default
   {% for profiles in site.data.inmyshoes %}
     {% for person in profiles.people %}
       <div class="card">
-          <a href="profiles/{{ person.name}}.html">
+          <a href="profiles/{{ person.name }}.html">
             <img class="blogImage" src="{{ profiles.imagefolder }}/{{ person.filename }}">
           </a>
         <div class="stats">
