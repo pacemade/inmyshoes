@@ -1,28 +1,44 @@
-{% if page.collection %}
-  {% assign posts = site[page.collection] | where:"layout", "post" | sort: 'date' %}
+<!-- creates if statements for previous and next post -->
 
-  {% if posts.size > 1 %}
-    {% assign prevurl = posts.last.url %}
-    {% assign nexturl = posts.first.url %}
+{% for c in site.profiles %}
+{% if c.title == page.title %}
+  {% assign thisPost = c %}
+  {% if forloop.index == 1 %}
+    {% assign prevflag = 0 %}
+    {% assign nextflag = 1 %}
+  {% elsif forloop.index == forloop.length %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 0 %}
+  {% else %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 1 %}
   {% endif %}
+{% endif %}
+{% endfor %}
 
-  {% for links in posts %}
-    {% if links.title == page.title %}
-      {% unless forloop.first %}
-        {% assign prevurl = prev.url %}
-      {% endunless %}
-      {% unless forloop.last %}
-        {% assign next = posts[forloop.index] %}
-        {% assign nexturl = next.url %}
-      {% endunless %}
+{% for c in site.profiles %}
+  {% if c.title == page.title %}
+    {% assign prevflag = 0 %}
+  {% endif %}
+  {% if prevflag == 1 %}
+    {% assign prevPost = c %}
+    {% assign page.previous = c %}
+  {% endif %}
+{% endfor %}
+
+{% if nextflag == 1 %}
+  {% for c in site.profiles %}
+    {% if foundPost == 1 %}
+      {% assign getNext = 1 %}
     {% endif %}
-    {% assign prev = links %}
+    {% if c.title == page.title %}
+      {% assign foundPost = 1 %}
+    {% endif %}
+    {% if getNext == 1%}
+      {% assign nextPost = c %}
+      {% assign page.next = c %}
+      {% assign foundPost = 0 %}
+      {% assign getNext = 0 %}
+    {% endif %}
   {% endfor %}
-
-  <p>
-      {% if posts.size > 1 %}
-        {% if prevurl %}<a href="{{prevurl}}" class="prev">PREV</a>{% endif %}
-        {% if nexturl %}<a href="{{nexturl}}" class="nxt">NEXT</a>{% endif %}
-      {% endif %}
-  </p>
 {% endif %}
