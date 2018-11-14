@@ -1,6 +1,34 @@
 window.onload = function () {
 
-  // Fade Up
+// page transition
+  // $("a").on("click", function(event) {
+  //   console.log(event);
+  //   event.preventDefault();
+  //
+  //   const href = $(this).attr("href");
+  //
+  //   console.log("1st" + href);
+  //
+  //   window.history.pushState(null, null, href);
+  //
+  //   // $(".card a").removeClass("active")
+  //   // $(this).addClass('active')
+  //
+  //   $.ajax({
+  //     url: href,
+  //     success: function (data) {
+  //       $("main").fadeOut(250, function () {
+  //         const newPage = $(data).filter("main").html()
+  //
+  //         $("main").html(newPage)
+  //
+  //         $("main").fadeIn(250)
+  //       })
+  //     }
+  //   })
+  // });
+
+  // Fade Up ---------------------------------------------
 
   //Cache reference to window and animation items
   var $animation_elements = $('.to-fade-up');
@@ -30,38 +58,5 @@ window.onload = function () {
       }
     });
   }
-
-
-// page transition
-
-  $("a").on("click", function(event) {
-    console.log(event);
-    event.preventDefault();
-
-    const href = $(this).attr("href");
-
-    console.log("1st" + href);
-
-    window.history.pushState(null, null, href);
-
-    // $(".card a").removeClass("active")
-    // $(this).addClass('active')
-
-    $.ajax({
-      url: href,
-      success: function (data) {
-        $("main").fadeOut(250, function () {
-          const newPage = $(data).filter("main").html()
-
-          $("main").html(newPage)
-
-          $("main").fadeIn(250)
-          console.log("2nd" + href);
-        })
-      }
-    })
-
-
-  });
 
 }
