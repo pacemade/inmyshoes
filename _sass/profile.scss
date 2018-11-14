@@ -1,6 +1,9 @@
 .profile_wrapper {
   margin: 3em auto;
   p, h1, h3 {
+    color: $darkest;
+  }
+  h2 {
     color: $dark;
   }
   p, h2 {
@@ -108,7 +111,7 @@
       font-size: 2.0em;
     }
   }
-  
+
   .profile_wrapper {
     width: 85%;
     margin: 3em auto;
