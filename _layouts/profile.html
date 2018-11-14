@@ -18,7 +18,7 @@ layout: default
   <div class="disclaimer">
     <p><i>This interview was edited for clarity, names of individuals have been changed to respect their privacy</i><p>
   </div>
-  
+
   <!-- creates if statements for previous and next post -->
 
   {% for c in site.profiles %}
@@ -68,12 +68,12 @@ layout: default
     <div >
       {% if prevPost.url %}
       <a class="prev" href="{{prevPost.url}}">
-          <span>&lt; {{prevPost.title}}</span>
+          <span>&lt; Previous</span>
       </a>
       {% endif %}
       {% if nextPost.url %}
       <a class="next" href="{{nextPost.url}}">
-          <span>{{nextPost.title}} &gt;</span>
+          <span>Next &gt;</span>
       </a>
       {% endif %}
     </div>
