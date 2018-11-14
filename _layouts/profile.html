@@ -11,8 +11,8 @@ layout: default
     <img src={{ page.profileImage }} alt="">
   </div>
   <div class="playlists">
-    <h4> Tracks curated by {{ person.firstName }}:
-    <a href="{{ person.playlistLink }}" target="_blank">Youtube Playlist</a></h4>
+    <h4> Tracks curated by {{ page.firstName }}:
+    <a href={{ page.playlistLink }} target="_blank">Youtube Playlist</a></h4>
   </div>
   {{ content }}
   <div class="disclaimer">

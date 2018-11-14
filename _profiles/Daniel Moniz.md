@@ -1,11 +1,9 @@
 ---
 layout: profile
-person: Daniel Moniz
 
 profileImage: /assets/images/portraits/danielmoniz.jpg
 firstName: Daniel
 lastName: Moniz
-name: Daniel Moniz
 occupation: Software Engineer | Instructor | Improv Artist
 factCategory: Winner of the Space Race
 factFact: USSR

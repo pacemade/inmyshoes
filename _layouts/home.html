@@ -6,22 +6,6 @@ layout: default
   <h3>I've had the privilege of meeting incredible personalities from all walks of life; working within different professions with unique goals and personal values. However, one thing they do have in common, is the fact that they had inspired me to be a better version of myself; to push towards my own goals and to see my own values in a different perspective. These are the stories of those people.</h3>
 </div>
 
-<!-- <div class="card-container">
-  {% for profiles in site.data.inmyshoes %}
-    {% for person in profiles.people %}
-      <div class="card">
-          <a href="profiles/{{ person.name }}.html">
-            <img class="blogImage" src="{{ profiles.imagefolder }}/{{ person.filename }}">
-          </a>
-        <div class="stats">
-          <p>{{ person.firstName }} {{ person.lastName }}</p>
-          <p>{{ person.occupation }}</p>
-          <p>Favorite {{ person.factCategory }}: {{ person.factFact }} </p>
-        </div>
-      </div>
-    {% endfor %}
-  {% endfor %}
-</div> -->
 <div class="card-container">
   {% for profile in site.profiles %}
     <div class="card">

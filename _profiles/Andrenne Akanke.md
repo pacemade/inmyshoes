@@ -1,9 +1,7 @@
 ---
 layout: profile
-person: Andrenne Akanke
 
 profileImage: /assets/images/portraits/andrenneakanke-7-2.jpg
-name: Andrenne Akanke
 firstName: Andrenne
 lastName: Akanke
 occupation: Visual Artist | Model

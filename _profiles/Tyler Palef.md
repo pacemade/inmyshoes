@@ -1,9 +1,7 @@
 ---
 layout: profile
-person: Tyler Palef
 
-profileImage: assets/images/portraits/tylerpalef-4.jpg
-name: Tyler Palef
+profileImage: /assets/images/portraits/tylerpalef-4.jpg
 firstName: Tyler
 lastName: Palef
 occupation: Father | Web Developer
