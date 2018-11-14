@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="profile_wrapper">
+<div class="profile_wrapper to-fade-up">
   <div class="profile_header">
     <h1>{{ page.firstName }} {{ page.lastName }}</h1>
     <h2>{{ page.occupation }}</h2>
@@ -68,12 +68,12 @@ layout: default
     <div >
       {% if prevPost.url %}
       <a class="prev" href="{{prevPost.url}}">
-          <span>&lt; Previous</span>
+          <span>&lt; prev</span>
       </a>
       {% endif %}
       {% if nextPost.url %}
       <a class="next" href="{{nextPost.url}}">
-          <span>Next &gt;</span>
+          <span>next &gt;</span>
       </a>
       {% endif %}
     </div>

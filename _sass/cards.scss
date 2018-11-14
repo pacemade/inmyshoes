@@ -18,7 +18,7 @@
     transition: 0.3s;
   }
   img:hover {
-    opacity: 0.60;
+    opacity: 0.30;
     transition: 0.3s;
     transform: translate(5px, 5px);
     box-shadow: none;
@@ -31,14 +31,11 @@
   .stats {
     color: $darkest;
     position: absolute;
-    // left: 0;
-    // right: 0;
     pointer-events:none;
     transition: 0.3s;
     opacity: 0;
-    // transform: scale(1.5)
     p {
-      font-size: 1em;
+      font-size: 1.25em;
       cursor: pointer;
     }
   }
