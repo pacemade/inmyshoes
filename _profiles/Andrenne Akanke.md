@@ -1,6 +1,16 @@
 ---
 layout: profile
 person: Andrenne Akanke
+
+profileImage: /assets/images/portraits/andrenneakanke-7-2.jpg
+name: Andrenne Akanke
+firstName: Andrenne
+lastName: Akanke
+occupation: Visual Artist | Model
+factCategory: Ice Cream
+factFact: Pikachu
+playlistLink: https://www.youtube.com/watch?v=-CPCs7vVz6s&list=PLqLfWv6bj-W0BmRpwnoaUhMlTEp78iGQE
+
 images: ../assets/images/profile_extras/andrenne_akanke/andrenneakanke-
 quote1: But its too late for me, like I’ve already fallen in love with ME, I've already fallen in love with the journey.
 quote2: To always be in a place where I can see everyone as a reflection of me. Where we're not disconnected...

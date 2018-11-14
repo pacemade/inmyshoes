@@ -1,11 +1,23 @@
 ---
 layout: profile
 person: Daniel Moniz
+
+profileImage: /assets/images/portraits/danielmoniz.jpg
+firstName: Daniel
+lastName: Moniz
+name: Daniel Moniz
+occupation: Software Engineer | Instructor | Improv Artist
+factCategory: Winner of the Space Race
+factFact: USSR
+playlistLink: https://www.youtube.com/watch?v=_FrOQC-zEog&list=PLqLfWv6bj-W39fQOfLrhm2PYiSAp8Z1rU
+
 images: ../assets/images/profile_extras/danielmoniz/danielmoniz-
 quote1: I can have interesting chats with people, help them out and that kind of thing, that’d be cool yeah, but being stopped on the street, less cool.
 quote2: I feel like a robot, like a singing robot.
 quote3: The more we can create analogies, relatable situations—the easier it is to learn something. I have a million of those things now, and they just all build up.
 quote4: You can pay for a show, and have paid to be entertained, but it’s not up to you what entertainment means, it’s up to the entertainer.
+
+
 
 ---
 

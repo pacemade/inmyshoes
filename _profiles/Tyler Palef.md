@@ -1,6 +1,16 @@
 ---
 layout: profile
 person: Tyler Palef
+
+profileImage: assets/images/portraits/tylerpalef-4.jpg
+name: Tyler Palef
+firstName: Tyler
+lastName: Palef
+occupation: Father | Web Developer
+factCategory: Hockey Player
+factFact: James Reimer
+playlistLink: https://www.youtube.com/watch?v=Y5fBdpreJiU&list=PLqLfWv6bj-W1xk3SvM4ACCnHXgH5AxM0A
+
 images: ../assets/images/profile_extras/tylerpalef/tylerpalef-
 quote1: Then come 3rd year, got a girl pregnant, have a baby, and that completely shifts your entire priorities
 quote2: You don't want to be the Yamcha, you don't want to be him, you want to be Goku.
