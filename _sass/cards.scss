@@ -1,26 +1,76 @@
-.card-container {
-  column-count: 1;
-  column-gap: 1em;
-}
+// .card-container {
+//   column-count: 1;
+//   column-gap: 1em;
+// }
+//
+// .card {
+//   display: inline-block;
+//   margin: 0 0 1em;
+//   width: 100%;
+//   text-align: center;
+//   position: relative;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   img {
+//     transition: 0.5s;
+//     border-radius: 5px;
+//     box-shadow: none;
+//   }
+//   img:hover {
+//     opacity: 0.30;
+//     background-color: $darkest;
+//     transform: translate(-5px, -5px);
+//     box-shadow: 5px 5px 5px $shadows;
+//     // -webkit-filter: brightness(70%);
+//   }
+//   a:hover + .stats {
+//     opacity: 1;
+//     -webkit-transform: translateZ(0);
+//     transform: scale(1.1)
+//   }
+//   .stats {
+//     color: $darkest;
+//     position: absolute;
+//     pointer-events:none;
+//     transition: 0.4s;
+//     opacity: 0;
+//     p {
+//       font-size: 1.25em;
+//       cursor: pointer;
+//     }
+//   }
+// }
 
+
+
+// ------- OLD NON MASONRY LAYOUT USING GRIDS ---------
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 2rem;
+  padding: 1rem;
+}
 .card {
-  display: inline-block;
-  margin: 0 0 1em;
-  width: 100%;
   text-align: center;
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
   img {
+    height: 60vh;
+    object-fit: cover;
     transition: 0.5s;
     border-radius: 5px;
     box-shadow: none;
   }
   img:hover {
     opacity: 0.30;
+    background-color: $darkest;
     transform: translate(-5px, -5px);
     box-shadow: 5px 5px 5px $shadows;
+    // -webkit-filter: brightness(70%);
   }
   a:hover + .stats {
     opacity: 1;
@@ -34,7 +84,7 @@
     transition: 0.4s;
     opacity: 0;
     p {
-      font-size: 1.25em;
+      font-size: 1em;
       cursor: pointer;
     }
   }
@@ -42,50 +92,6 @@
 
 @media only screen and (min-width: $medium) {
   .card-container {
-    column-count: 2
+    column-count: 3
   }
 }
-
-// ------- OLD NON MASONRY LAYOUT USING GRIDS ---------
-
-// .card-container {
-//   display: grid;
-//   grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-//   grid-gap: 1rem;
-//   padding: 1rem;
-// }
-//
-// .card {
-//   text-align: center;
-//   position: relative;
-//   display: flex;
-//   align-items: center;
-//   justify-content: center;
-//   img {
-//     box-shadow: 5px 5px 5px $shadows;
-//     border-radius: 5px;
-//     transition: 0.3s;
-//   }
-//   img:hover {
-//     opacity: 0.60;
-//     transition: 0.3s;
-//     transform: translate(5px, 5px);
-//     box-shadow: none;
-//   }
-//   a:hover + .stats {
-//     display: block;
-//   }
-//   .stats {
-//     color: $darkest;
-//     display: none;
-//     position: absolute;
-//     left: 0;
-//     right: 0;
-//     pointer-events:none;
-//     transition: 0.3s;
-//     p {
-//       font-size: 1.3em;
-//       cursor: pointer;
-//     }
-//   }
-// }
