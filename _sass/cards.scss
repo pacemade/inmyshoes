@@ -14,14 +14,13 @@
   justify-content: center;
   img {
     transition: 0.5s;
-    transition: 0.5s;
+    border-radius: 5px;
     box-shadow: none;
   }
   img:hover {
     opacity: 0.30;
     transform: translate(-5px, -5px);
     box-shadow: 5px 5px 5px $shadows;
-    border-radius: 5px;
   }
   a:hover + .stats {
     opacity: 1;
