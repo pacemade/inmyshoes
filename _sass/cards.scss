@@ -66,11 +66,11 @@
     box-shadow: none;
   }
   img:hover {
-    opacity: 0.30;
+    // opacity: 0.30;
     background-color: $darkest;
     transform: translate(-5px, -5px);
     box-shadow: 5px 5px 5px $shadows;
-    // -webkit-filter: brightness(70%);
+    -webkit-filter: brightness(70%);
   }
   a:hover + .stats {
     opacity: 1;
@@ -78,7 +78,7 @@
     transform: scale(1.1)
   }
   .stats {
-    color: $darkest;
+    color: white;
     position: absolute;
     pointer-events:none;
     transition: 0.4s;
@@ -87,11 +87,5 @@
       font-size: 1em;
       cursor: pointer;
     }
-  }
-}
-
-@media only screen and (min-width: $medium) {
-  .card-container {
-    column-count: 3
   }
 }
