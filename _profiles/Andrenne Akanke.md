@@ -5,8 +5,8 @@ profileImage: /assets/images/portraits/andrenneakanke-7-2.jpg
 firstName: Andrenne
 lastName: Akanke
 occupation: Visual Artist | Model
-factCategory: Ice Cream
-factFact: Pikachu
+factCategory: Subjects to Paint
+factFact: People
 playlistLink: https://www.youtube.com/watch?v=-CPCs7vVz6s&list=PLqLfWv6bj-W0BmRpwnoaUhMlTEp78iGQE
 
 images: ../assets/images/profile_extras/andrenne_akanke/andrenneakanke-
