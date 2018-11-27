@@ -5,12 +5,11 @@
   }
   h2 {
     color: $dark;
-  }
-  p, h2 {
     padding: 0px 30px 30px 30px;
   }
   p {
     line-height: 1.7;
+    padding: 0px 30px 30px 30px;
   }
   h3 {
     padding: 0px 20px 10px 20px;
@@ -117,6 +116,16 @@
   .profile_wrapper {
     width: 75%;
     margin: 3em auto;
+    h2 {
+      padding: 0px 30px 30px 30px;
+    }
+    p {
+      line-height: 1.7;
+      padding: 0px 50px 30px 50px;
+    }
+    h3 {
+      padding: 0px 300px 10px 30px;
+    }
   }
 
   .profile_double {
