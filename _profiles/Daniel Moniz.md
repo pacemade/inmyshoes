@@ -15,8 +15,6 @@ quote2: I feel like a robot, like a singing robot.
 quote3: The more we can create analogies, relatable situations—the easier it is to learn something. I have a million of those things now, and they just all build up.
 quote4: You can pay for a show, and have paid to be entertained, but it’s not up to you what entertainment means, it’s up to the entertainer.
 
-
-
 ---
 
 <h1 class="to-fade-up">So... </h1>
