@@ -1,18 +1,18 @@
 ---
 layout: profile
-profileImage: /assets/images/portraits/danielmoniz.jpg
+profileImage: /assets/images/portraits/yannie_lo-3.jpg
 firstName: Yannie
 lastName: Lo
-occupation: Illustrator/Animator
+occupation: Illustrator | Animator
 factCategory: Activity
 factFact: Hearing myself <br> talk about myself
 playlistLink:
 
-images: ../assets/images/profile_extras/yannielo/yannielo-
+images: ../assets/images/profile_extras/yannie_lo/yannie_lo-
 quote1: In terms of what I wanted to do, I figured it out by doing a bunch of shit I didn't want to do.
 quote2: For a long time you grow up thinking, “I want my parents to understand me, I want them to validate me, I need someone to tell me that I'm doing something right, that I’m on the right path.”
 quote3:  Love... to me is when you’re willing to strip away the photoshopped version of yourself over time... for people to see you in all of your ugliness.
-quote4: I'm just kinda like, ”You don't believe in your own thoughts enough? To express them?”
+quote4: I'm just kinda like, 'You don't believe in your own thoughts enough? To express them?'
 quote5: If I’m doing MORE than what I initially said I was going to do, and I’m still handling shit, that means that I’m functioning.
 
 ---
@@ -33,6 +33,11 @@ WHO SAYS I'M OUT OF IT? <i>(laughs)</i> Well... yeah, so I think... the thing is
 
 I don't even really know.. I don't have any uh... heroes or anything... I guess... <i>(thinks intensely)</i>... I mean it’s moreso I’m drawing a blank, but... you know the game Katamari Damacy? The guy who created the game, he’s someone who I think is a really cool person. I really like his video games: they're really interesting and really out of the box. They’re casual games, but even though I say casual, it’s not really a derogatory thing? With Katamari Damacy, I feel like even people who weren’t particularly interested in games (or at least what they thought games were), were able to get into it. He’s gone to do more stuff these days and he’s just got this really interesting outlook on things. I see his Twitter post and he’s just... he’s always just making funny, weird observations about things. He didn’t have a video game background either, but I think because of that, you’re more free from certain preconceptions. At the end of the day, something like a game is such a huge group effort. Just kind of... just being curious about the whole process of working with people to make something like this happen would be really interesting to find out.
 
+<div class="profile_double">
+  <img src="{{ page.images }}10.jpg" alt="sexy girl">
+  <img src="{{ page.images }}11.jpg" alt="sexy girl">
+</div>
+
 <h3 class="question">Would you like to be famous, in so in what way, if not, why?</h3>
 
 Uhmm... would I like to be famous? I guess it depends for what <i>(laughs)</i>, you know? You don’t want to be that person that like... shot an elephant or something, and then has their photos of animal hunting on Facebook. But I think it would be a lie for anyone to say that they don't want to be famous. So fame is... extreme external validation, and I think everyone wants that. So to answer your question... sure. If somebody was like, “You’re gonna be famous for being like, cool” then yeah. Though I guess I still am not comfortable with that to a certain degree because there are people actually that... One of my family members told me that they wanted to be Instagram famous, and they ended up doing it—they were really deliberate with their social media. I'm sure the job that they have now has to do with the fact that they worked hard at being a... what is now known as a <i>(air quotes)</i> “Social influencer”. I mean it’s tiring because you’re constantly feeling like you’re performing in front of an audience, right? Even if it’s just photos, you’re constantly thinking of making sure people are still interested in you. If you’re a movie star, or an artist, you could make music, you could do movies, at least you have an agent and PR people to handle that for you. If you're hyper-aware of that, and constantly kind of objectifying yourself, you’re not really inhabiting your own life anymore, right?  I dunno... it's a double-edged sword basically is what I’m saying.
@@ -52,6 +57,11 @@ Myself... I don't know actually... a week ago, two weeks ago? I mean if you’re
 <h3 class="question">For what in life are you most grateful for?</h3>
 
 I think... I mean the very basic go-to would be that Im grateful to be alive? I'm ALIVE, but also I’m living in this: top, elite, social-economic tier, within like.... the PLANET, okay? I’m not Warren Buffet, but there’s a lot of things that I don't have to worry about, and I can think about stuff like, “Self-fulfillment”, which is a luxury to have as a thing that stresses me out. Yeah, there’s a lot of things that I don't even know I’m taking for granted. So to all the things that I don't even know I have to think about, I’m grateful for. Like I have free time, that’s... some people don't have free time in this world.
+
+<div class="profile_double">
+  <img src="{{ page.images }}5.jpg" alt="sexy girl">
+  <img src="{{ page.images }}6.jpg" alt="sexy girl">
+</div>
 
 <h3 class="question">If you could change anything in how you were raised or how you grew up, what would you change?</h3>
 
@@ -88,6 +98,10 @@ I think a best friend is someone who... that’s hard to say... I think a friend
 Somebody that will... someone that makes me feel that I’m perfectly fine as of right now. Like there’s nothing that I really need to change about myself in any way. I don't need them to agree with anything I say for them to open up to me. I think also... this would be nice to have, but basically I think I have some friends that understand my compulsions enough that they can tell when I'm under a lot of stress—even when I’m not aware that I’m under a lot of stress. They will come and take care of me. They’ll be pro-active about it, because I don't really... I don't really, “Do that.” The most I'll do is go on a rant like, “Wow people are garbage,” and then you know... and then just like, “I just need to be alone right now.”
 
 I have a friend who invited me over to just stay at her place, we played video games all day all night, and then the next day, somebody else was coming over to make lunch. And she invited me to stay still, and have lunch. That meant a lot to me, for someone to just kind of... let me relax and just be a person bumming off your food, stuff like that, that enjoys just my company. That really meant a lot to me, cause I don't think I’ve ever felt like someone else was taking care of my shit for me... very often.
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}2.jpg" alt="sexy girl">
+</div>
 
 <h3 class="question">For you, what is your greatest achievement in your life so far?</h3>
 
@@ -130,6 +144,10 @@ I mean I got into an argument with my mom telling her like, “I think our famil
 
 Whom I could share... my ambitions.  Right now, I am in a very selfish phase in my life... so there are things that I want to do, other things that I wanna try, and I think it’s important for me right now for people to understand that there’s gonna be days where I'm gonna be emo as hell, cause I'm all stressed. But overall I'm doing what I want to be doing, or trying the things that I want to be trying, and I need make sure... I need to know... or I wanna know someone that understands that.  The people that I kind of really end up opening up towards more are people who understand desire. There’s a lot out there, and there’s a limited time that you’re on this planet.
 
+<div class="profile_extra1">
+  <img src="{{ page.images }}.jpg" alt="sexy girl">
+</div>
+
 <h3 class="question">What do you like most about yourself?</h3>
 
 Uhm... NOT evil... yeah. I’ve had people tell me that I’m a nice person, and I don’t really know if that’s a compliment? But I think I’m empathetic enough—I don't need to be more empathetic <i>(laughs empathetically)</i>. Maybe that was more something that people like about me? What I actually like most about myself is that... that I haven’t given up yet.
@@ -137,6 +155,8 @@ Uhm... NOT evil... yeah. I’ve had people tell me that I’m a nice person, and
 <h3 class="question">Can you share an embarrassing story?</h3>
 
 Okay this is just the first thing that’s coming up in my head, I don't even know if its just something thats embarrassing from just telling you. When I was a kid, I was over at a childhood friend’s house and I saw that they had pizza-flavored Pringles, and I really wanted to eat those pizza-flavored Pringles... I didn't wanna be just like, “Hey I wanna eat your Pringles” So I saw them on the shelf, I was holding the Pringles... and then I was like... being all nonchalant and shit, like I was thinking I was being really slick. I went into the other room where everyone else was and was like, “So uhh, do you guys have like, Pringles?” And they all TOTALLY knew.. .they knew that I was eyeing these pizza-flavored Pringles so they just started laughing and they're like, “Do you want the pizza-flavored ones?” I was pretty embarrassed, so there’s that.
+
+
 
 <h3 class="question">When did you last cry in front of another person, to yourself?</h3>
 
@@ -147,6 +167,10 @@ The last time I cried to myself was like... I dunno.. so there's deep reasons, a
 <h3 class="question">Ohh, I thought that guy WAS the boyfriend.</h3>
 
 Nono, this was just a guy. My boyfriend I went out with... 12 years, he was my first boyfriend. So I was never really single for my entire adult life, right? So now i’m single, and I went through some weird shit, and... I think having friends that really care deeply, being there for me when I was like, “I dunno what I'm doing! I don't have the answers to anything,” and wanting to take care of me, I think it really helped me understand that it’s... it’s.. thats the difference between affection and love!
+
+<div class="profile_extra1">
+  <img src="{{ page.images }}9.jpg" alt="sexy girl">
+</div>
 
 <h3 class="question">What, if anything is too serious to joke about?</h3>
 
@@ -171,6 +195,11 @@ I don't know if there’s anything that I need to tell... anyone.... anything...
 <h3 class="question">Your house, containing everything you own catches fire, after saving your loved ones and pets, you have enough time to make one final dash to save any one item in your house, what would that be?</h3>
 
 So I can only have one item? uhmm... I dunno my laptop? It’s for practical reasons I guess? I have stuff... but I don't know if I’d be really sad at all if they all burned really.
+
+<div class="profile_double">
+  <img src="{{ page.images }}7.jpg" alt="sexy girl">
+  <img src="{{ page.images }}8.jpg" alt="sexy girl">
+</div>
 
 <h3 class="question">Can you share a personal problem that you’re going through right now and what you’re planning on doing to resolve that.</h3>
 
