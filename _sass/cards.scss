@@ -69,8 +69,8 @@
   img:hover {
     // opacity: 0.30;
     background-color: $darkest;
-    transform: translate(-5px, -5px);
-    box-shadow: 5px 5px 5px $shadows;
+    transform: translate(0px, -8px);
+    box-shadow: 0px 8px 5px $shadows;
     -webkit-filter: brightness(70%);
   }
   a:hover + .stats {
