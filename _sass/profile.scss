@@ -62,7 +62,7 @@
   grid-gap: 1rem;
   padding: 1rem;
   padding-bottom: 30px;
-
+  grid-template-columns: repeat(auto-fit, minmax(30vw, 1fr));
 }
 
 .quote {
@@ -124,12 +124,12 @@
       padding: 0px 50px 30px 50px;
     }
     h3 {
-      padding: 0px 300px 10px 30px;
+      padding: 0px 30px 10px 30px;
     }
   }
 
   .profile_double {
-    grid-template-columns: repeat(auto-fit, minmax(30vw, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(20vw, 1fr));
     img {
       max-height: 100%;
     }
