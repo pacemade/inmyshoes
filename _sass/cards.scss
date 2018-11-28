@@ -59,6 +59,9 @@
   align-items: center;
   justify-content: center;
   font-family: 'Oswald', sans-serif;
+  hr {
+    width: 60%;
+  }
   img {
     height: 60vh;
     object-fit: cover;
