@@ -105,8 +105,8 @@ Ha! That I sang to myself? uhmmm... wow... probably last night, but I can't reca
 I'm grateful for... I'm grateful for people. People that I can connect with and learn from and build with, like I appreciate that—just connections. Some people are complete opposite; they don't want anything to do with people right? Yeah for me, I try to learn something from everyone... like where would I be without people? Like I mean I sure it'll be okay too, but even if not people... I also consider all things, all living things... like living and teaching right?
 
 <div class="profile_double">
-  <img src="{{ page.images }}.jpg" alt="sexy girl">
   <img src="{{ page.images }}2.jpg" alt="sexy girl">
+  <img src="{{ page.images }}.jpg" alt="sexy girl">
 </div>
 
 
