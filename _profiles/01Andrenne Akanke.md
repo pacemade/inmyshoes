@@ -1,7 +1,7 @@
 ---
 layout: profile
 
-profileImage: /assets/images/portraits/andrenneakanke-7-2.jpg
+profileImage: /assets/images/portraits/andrenne_akanke-7-2.jpg
 firstName: Andrenne
 lastName: Akanke
 occupation: Visual Artist | Model
@@ -9,7 +9,7 @@ factCategory: Subjects to Paint
 factFact: People
 playlistLink: https://www.youtube.com/watch?v=-CPCs7vVz6s&list=PLqLfWv6bj-W0BmRpwnoaUhMlTEp78iGQE
 
-images: ../assets/images/profile_extras/andrenne_akanke/andrenneakanke-
+images: ../assets/images/profile_extras/andrenne_akanke/andrenne_akanke-
 quote1: But its too late for me, like I’ve already fallen in love with ME, I've already fallen in love with the journey.
 quote2: To always be in a place where I can see everyone as a reflection of me. Where we're not disconnected...
 quote3: When you wanna talk about REAL HARD SHIT to do, it’s really forgiving people.
