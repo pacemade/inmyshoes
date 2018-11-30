@@ -163,7 +163,7 @@ Then my mom’s just... she’s just a mom: caring and she’s pretty smart, in 
 Mmm... long sleepless night with.
 
 <div class="profile_extra1">
-  <img src="{{ page.images }}7.jpg" alt="sexy girl">
+  <img src="{{ page.images }}4.jpg" alt="sexy girl">
 </div>
 
 <h3 class="question">What do you like most about yourself?</h3>
@@ -202,7 +202,7 @@ I don’t really sugarcoat things. I’m a pretty straightforward kind of guy. I
 I’m just gonna die like, tonight? Probably the generic, like last word kind of thing, “I’m sorry, I still love you all, go do something worth your life... don’t be a WASTEMAN.” <i>(laughs)</i> “Go be somebody.”
 
 <div class="profile_extra1">
-  <img src="{{ page.images }}4.jpg" alt="sexy girl">
+  <img src="{{ page.images }}7.jpg" alt="sexy girl">
 </div>
 
 <h3 class="question">Your house, containing everything you own catches fire, after saving your pets and loved one, you have enough time to make a final dash to save any one item, what item would that be?</h3>
