@@ -62,7 +62,7 @@
   grid-gap: 1rem;
   padding: 1rem;
   padding-bottom: 30px;
-  grid-template-columns: repeat(auto-fit, minmax(20vw, 1fr));
+  grid-template-columns: auto auto;
 }
 
 .quote {
@@ -129,7 +129,7 @@
   }
 
   .profile_double {
-    grid-template-columns: repeat(auto-fit, minmax(30vw, 1fr));
+    grid-template-columns: auto, auto
     img {
       max-height: 100%;
     }
