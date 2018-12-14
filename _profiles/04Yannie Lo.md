@@ -1,6 +1,6 @@
 ---
 layout: profile
-profileImage: /assets/images/portraits/yannie_lo-4.jpg
+profileImage: /assets/images/portraits/yannie_lo_profile.jpg
 firstName: Yannie
 lastName: Lo
 occupation: Illustrator | Animator
@@ -8,6 +8,7 @@ factCategory: Activity
 factFact: Hearing myself <br> talk about myself
 playlistLink:
 
+headImage: ../assets/images/profile_extras/yannie_lo/yannie_lo_p.jpg
 images: ../assets/images/profile_extras/yannie_lo/yannie_lo-
 quote1: In terms of what I wanted to do, I figured it out by doing a bunch of shit I didn't want to do.
 quote2: For a long time you grow up thinking, “I want my parents to understand me, I want them to validate me, I need someone to tell me that I'm doing something right, that I’m on the right path.”

@@ -1,6 +1,6 @@
 ---
 layout: profile
-profileImage: /assets/images/portraits/james_hoang.jpg
+profileImage: /assets/images/portraits/james_hoang_profile.jpg
 firstName: James
 lastName: Hoang
 occupation: Time-Traveller | Dancer | Programmer
@@ -8,6 +8,7 @@ factCategory: Concepts
 factFact: Time & Space
 playlistLink:
 
+headImage: ../assets/images/profile_extras/james_hoang/james_hoang_p.jpg
 images: ../assets/images/profile_extras/james_hoang/james_hoang-
 quote1: Hey man. uhh... I'm just gonna take your weight and we’re gonna inject some ‘fun juice’ in you.
 quote2: I don’t wanna do anything, I don’t wanna wake up, I don’t wanna go do THIS, I can’t run, I can’t walk, I can’t do this... most important of them all I can’t DANCE.

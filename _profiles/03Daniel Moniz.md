@@ -1,7 +1,7 @@
 ---
 layout: profile
 
-profileImage: /assets/images/portraits/danielmoniz.jpg
+profileImage: /assets/images/portraits/daniel_moniz_profile.jpg
 firstName: Daniel
 lastName: Moniz
 occupation: Software Engineer | Instructor | Improv Artist
@@ -9,7 +9,8 @@ factCategory: Winner of the Space Race
 factFact: USSR
 playlistLink: https://www.youtube.com/watch?v=_FrOQC-zEog&list=PLqLfWv6bj-W39fQOfLrhm2PYiSAp8Z1rU
 
-images: ../assets/images/profile_extras/daniel_moniz/danielmoniz-
+headImage: ../assets/images/profile_extras/daniel_moniz/daniel_moniz_p.jpg
+images: ../assets/images/profile_extras/daniel_moniz/daniel_moniz-
 quote1: I can have interesting chats with people, help them out and that kind of thing, that’d be cool yeah, but being stopped on the street, less cool.
 quote2: I feel like a robot, like a singing robot.
 quote3: The more we can create analogies, relatable situations—the easier it is to learn something. I have a million of those things now, and they just all build up.
