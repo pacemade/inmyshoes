@@ -1,6 +1,6 @@
 ---
 layout: profile
-profileImage: /assets/images/portraits/yannie_lo_profile.jpg
+profileImage: ../assets/images/profile_extras/yannie_lo/yannie_lo-5.jpg
 firstName: Yannie
 lastName: Lo
 occupation: Illustrator | Animator
