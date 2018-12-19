@@ -1,6 +1,6 @@
 ---
 layout: profile
-profileImage: ../assets/images/profile_extras/yannie_lo/yannie_lo-5.jpg
+profileImage: /assets/images/portraits/yannie_lo/yannie_lo_profile.jpg
 firstName: Yannie
 lastName: Lo
 occupation: Illustrator | Animator
@@ -8,8 +8,8 @@ factCategory: Activity
 factFact: Hearing myself <br> talk about myself
 playlistLink:
 
-headImage: ../assets/images/profile_extras/yannie_lo/yannie_lo_p.jpg
-images: ../assets/images/profile_extras/yannie_lo/yannie_lo-
+headImage: /assets/images/portraits/yannie_lo/yannie_lo_p.jpg
+images: /assets/images/portraits/yannie_lo/yannie_lo-
 quote1: In terms of what I wanted to do, I figured it out by doing a bunch of shit I didn't want to do.
 quote2: For a long time you grow up thinking, “I want my parents to understand me, I want them to validate me, I need someone to tell me that I'm doing something right, that I’m on the right path.”
 quote3:  Love... to me is when you’re willing to strip away the photoshopped version of yourself over time... for people to see you in all of your ugliness.
@@ -179,7 +179,7 @@ The last time I cried to myself was like... I dunno.. so there's deep reasons, a
 Nono, this was just a guy. My boyfriend I went out with... 12 years, he was my first boyfriend. So I was never really single for my entire adult life, right? So now I’m single, and I went through some weird shit, and... I think having friends that really care deeply, being there for me when I was like, “I dunno what I'm doing! I don't have the answers to anything,” and wanting to take care of me, I think it really helped me understand that it’s... it’s.., thats the difference between affection and love!
 
 <div class="profile_extra1">
-  <img src="{{ page.images }}5.jpg" alt="sexy girl">
+  <img src="{{ page.images }}13.jpg" alt="sexy girl">
 </div>
 
 <h3 class="question">What, if anything is too serious to joke about?</h3>

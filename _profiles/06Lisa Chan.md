@@ -1,7 +1,7 @@
 ---
 layout: profile
 
-profileImage: /assets/images/portraits/lisa_chan_profile.jpg
+profileImage: /assets/images/portraits/lisa_chan/lisa_chan_profile.jpg
 firstName: Lisa
 lastName: Chan
 occupation:  Occupational Therapist | Entrepreneur
@@ -9,8 +9,8 @@ factCategory: Thing to Do
 factFact: Travelling
 playlistLink:
 
-headImage: ../assets/images/profile_extras/lisa_chan/lisa_chan_p.jpg
-images: ../assets/images/profile_extras/lisa_chan/lisa_chan-
+headImage: /assets/images/portraits/lisa_chan/lisa_chan_p.jpg
+images: /assets/images/portraits/lisa_chan/lisa_chan-
 quote1: When I see children that have very poor self-regulation, I link that to people that I work with.
 quote2: I guess you just date someone and that’s love?
 quote3: I just bawled... and then I was fine.
@@ -19,7 +19,7 @@ quote4: You’re NOT as important to people as you think you are.
 ---
 <h1 class="to-fade-up">So...</h1>
 
-I was born and raised in Toronto, Ontario and eventually moved to Markham. I would say I came from a pretty typical Asian household: parents, older brother, myself. Growing up, I was a very shy, introverted person; I grew up in a christian household and went to a christian private school. So I think a lot of my earlier years, I was very much naive to what the world was really like. Then transitioned out of private school when I was in grade 7. I was lucky, I made really good friends that were pretty similar to me. I think I kinda stayed in my little bubble all throughout elementary school, middle school, even high school too. Never really got to experience any kind of like, hardships. It wasn’t a bad thing! (laughs) It was a pretty chill, normal childhood I would say.
+I was born and raised in Toronto, Ontario and eventually moved to Markham. I would say I came from a pretty typical Asian household: parents, older brother, myself. Growing up, I was a very shy, introverted person; I grew up in a Christian household and went to a Christian private school. So I think a lot of my earlier years, I was very much naive to what the world was really like. Then transitioned out of private school when I was in grade 7. I was lucky, I made really good friends that were pretty similar to me. I think I kinda stayed in my little bubble all throughout elementary school, middle school, even high school too. Never really got to experience any kind of like, hardships. It wasn’t a bad thing! (laughs) It was a pretty chill, normal childhood I would say.
 
 So then when I went to university—went to McMaster. That’s where I think I really started tuning into things, that’s when I started getting more exposed to what teenagers really do, the peer pressures in life... and I think I didn’t really know how to handle it. So I continued being quiet, and hung out with the regular people that I was accustomed to, like people from high school that went to the same university as me. I just stuck around them and didn't try to expand my association. Then by second year, that’s when I started realizing that I needed to grow up a little bit more. So I started branching out on my own: went to take dance classes, join other clubs where I’d meet people. That’s what pushed me to start feeling like, “Okay, you need to make other friends, you need to step out of your comfort zone because people... you can’t be this shy person for the rest of your life.”
 

@@ -1,7 +1,7 @@
 ---
 layout: profile
 
-profileImage: /assets/images/portraits/tyler_palef_profile.jpg
+profileImage: /assets/images/portraits/tyler_palef/tyler_palef_profile.jpg
 firstName: Tyler
 lastName: Palef
 occupation: Father | Web Developer
@@ -9,8 +9,8 @@ factCategory: Hockey Player
 factFact: James Reimer
 playlistLink: https://www.youtube.com/watch?v=Y5fBdpreJiU&list=PLqLfWv6bj-W1xk3SvM4ACCnHXgH5AxM0A
 
-headImage: ../assets/images/profile_extras/tyler_palef/tyler_palef_p.jpg
-images: ../assets/images/profile_extras/tyler_palef/tyler_palef-
+headImage: /assets/images/portraits/tyler_palef/tyler_palef_p.jpg
+images: /assets/images/portraits/tyler_palef/tyler_palef-
 quote1: "Then come 3rd year: got a girl pregnant, have a baby... and that completely shifts your entire priorities."
 quote2: You don't want to be the Yamcha, you don't want to be him, you want to be Goku.
 quote3: I think I just sat in the bathtub... cold water, nothing.
