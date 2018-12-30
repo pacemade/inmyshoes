@@ -33,7 +33,7 @@ Come university: same sorta thing. I would say that the nurturing cycle of my pa
   <img src="{{ page.images }}8.jpg" alt="sexy guy">
 </div>
 
-<h3 class="question">So from the unplanned baby, where did you go from there? How were you able to pivot as gracefully as you did?</h3>
+<h3 class="question">Where did you go from there? How were you able to pivot as gracefully as you did?</h3>
 
 So basically from there, my dream went away, just got be like, "Hey come on man get it together." I was really worried about getting a job after uni, and that’s where I started working as a tech support agent/lead. They initially asked for me to work at the start of the second semester, but I couldn't leave and NOT go to school. I mean that’s worse than not having a job, cause I had to finish my degree. So I was just like, "Why don't I start later?" They said, "Okay come back we'll call you later." Fast forward into March and they're like, "Okay, we have another job offer for you." At this point I felt like I deferred them once already—I can't do it again. So I took the job... started working in April, but school still didn't end for a couple of months. I just stopped going to classes... so while I was being trained, I was actually writing my philosophy papers, other papers, all that stuff—it was a total hustle. So in short the pivot was, "Get working."
 

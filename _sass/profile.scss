@@ -11,9 +11,6 @@
     line-height: 1.7;
     padding: 0px 30px 30px 30px;
   }
-  h3 {
-    padding: 0px 20px 10px 20px;
-  }
 }
 
 .head_profile {
@@ -46,6 +43,11 @@
   text-align: center;
 }
 
+.question {
+  font-size: $font2;
+  padding: 0px 20px 10px 20px;
+}
+
 
 // profile image & quote containers -------
 
@@ -67,11 +69,11 @@
 
 .quote {
   text-align: center;
-  border-left: 3px solid $shadows;
-  font-family: 'Oswald', sans-serif;
+  border-left: 3px solid $dark;
+  font-style: italic;
   h2 {
-    color: $shadows;
-    font-size: 2em;
+    color: $dark;
+    font-size: $font3;
   }
 }
 
@@ -106,10 +108,10 @@
 
   .profile_header {
     h1 {
-      font-size: 2.5em;
+      font-size: $font4;
     }
     h2 {
-      font-size: 2.0em;
+      font-size: $font3;
     }
   }
 
@@ -120,16 +122,19 @@
       padding: 0px 30px 30px 30px;
     }
     p {
-      line-height: 1.7;
-      padding: 0px 50px 30px 50px;
+      line-height: $font3;
+      padding: 0px 30px 30px 30px;
     }
     h3 {
       padding: 0px 30px 10px 30px;
     }
+    h4 {
+      font-size: $font1;
+    }
   }
 
   .profile_double {
-    grid-template-columns: auto, auto
+    grid-template-columns: auto, auto;
     img {
       max-height: 100%;
     }
