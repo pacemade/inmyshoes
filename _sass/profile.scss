@@ -1,15 +1,15 @@
 .profile_wrapper {
-  margin: 3em auto;
+  margin: 2em auto;
   p, h1, h3 {
     color: $darkest;
   }
   h2 {
     color: $dark;
-    padding: 0px 30px 30px 30px;
+    padding: 0px 10px 10px 10px;
   }
   p {
-    line-height: 1.7;
-    padding: 0px 30px 30px 30px;
+    line-height: $font3;
+    padding: 0px 10px 10px 10px;
   }
 }
 
@@ -24,10 +24,10 @@
   text-align: center;
   font-family: 'Oswald', sans-serif;
   h1 {
-    font-size: 2em;
+    font-size: $font4;
   }
   h2 {
-    font-size: 1.5em;
+    font-size: $font3;
   }
 }
 
@@ -45,7 +45,7 @@
 
 .question {
   font-size: $font2;
-  padding: 0px 20px 10px 20px;
+  padding: 0px 10px 10px 10px;
 }
 
 
@@ -73,6 +73,7 @@
   font-style: italic;
   h2 {
     color: $dark;
+    opacity: 0.8;
     font-size: $font3;
   }
 }
@@ -117,7 +118,7 @@
 
   .profile_wrapper {
     width: 75%;
-    margin: 3em auto;
+    margin: 2em auto;
     h2 {
       padding: 0px 30px 30px 30px;
     }

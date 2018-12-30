@@ -1,7 +1,7 @@
 .title {
   color: $darkest;
   text-align: center;
-  font-size: 11.089em;
+  font-size: $font6;
   margin-bottom: 30px;
 }
 
@@ -25,7 +25,7 @@
     padding-right: 1vw;
   }
   a, li {
-    font-size: 1.2em;
+    font-size:$font2;
   }
 }
 
