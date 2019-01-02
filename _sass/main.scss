@@ -43,12 +43,11 @@ a:hover {
 }
 
 .description {
-  width: 70%;
   text-align: center;
   margin: 0 auto;
-  padding-bottom: 25px;
+  font-family: 'IBM Plex Serif', serif;
   p {
-    font-size: $font2;
+    font-size: $font3;
     color: $darkest;
     font-style: italic;
   }

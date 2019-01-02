@@ -21,7 +21,7 @@
   img:hover {
     background-color: $darkest;
     transform: translate(0px, -8px);
-    box-shadow: 5px 5px 5px $shadows;
+    box-shadow: 5px 5px 5px $dark;
     transform: translate(-5px, -5px);
     -webkit-filter: brightness(70%);
   }
@@ -34,7 +34,7 @@
     color: white;
     position: absolute;
     pointer-events:none;
-    transition: 0.2s;
+    transition: 0.5s;
     opacity: 0;
     p {
       font-size: $font1;
