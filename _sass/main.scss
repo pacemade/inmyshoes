@@ -42,21 +42,6 @@ a:hover {
   color: $highlights;
 }
 
-.description {
-  text-align: center;
-  margin: 0 auto;
-  font-family: 'IBM Plex Serif', serif;
-  p {
-    font-size: $font3;
-    color: $darkest;
-    font-style: italic;
-  }
-  h3 {
-    font-size: $font1;
-    color: $darkest;
-  }
-}
-
 // margin change to accomadate font size change
 @media only screen and (min-width: $medium) {
   html, body {
