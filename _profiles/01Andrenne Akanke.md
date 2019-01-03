@@ -18,7 +18,7 @@ quote4: Just focus on doing you, you know? Just do it with the intent, good, bad
 quote5: We can all meet on a vibe, a frequency of creating and loving and enjoying it, enjoying the process, and that’s what it’s about.
 ---
 
-<h1 class="to-fade-up">So as you know...</h1>
+<h1 class="intro-word to-fade-up">So as you know...</h1>
 
 My name is Andrenne, artist name: Andrenne. I’m also known as Drena, Drena the runway diva, or… yeah! I’m a visual artist, arts educator, entertainer, storyteller and model. I grew up in Montego Bay Jamaica. I came here with my family… all my other family came before me, but I came over with my brother. I came back in 2001 and lived in Scarborough, I grew up there. In terms of my artistry and what inspired me to be an artist… when I was 5 years old, my cousin… I found my cousin painting; a deaf painter in Jamaica. I couldn’t communicate with him or anything like that, but I was like, “Why?” you know? I went to school close by him. So whenever there were like lunch breaks or stuff like that, I would run over to see what he was doing… how far he progressed with his painting and I just remember sitting by his easel and being amazed, I wanted to learn how to paint portraits like this.
 
@@ -84,7 +84,7 @@ The perfect day? That’s so great. For me… it’s to… yeah, be in tune that
 
 I'm grateful for... I'm grateful for people. People that I can connect with and learn from and build with, like I appreciate that—just connections. Some people are complete opposite; they don't want anything to do with people right? Yeah for me, I try to learn something from everyone... like where would I be without people? Like I mean I sure it'll be okay too, but even if not people... I also consider all things, all living things... like living and teaching right?
 
-<div class="profile_double">
+<div class="profile-double-container">
   <img src="{{ page.images }}2.jpg" alt="sexy girl">
   <img src="{{ page.images }}.jpg" alt="sexy girl">
 </div>
