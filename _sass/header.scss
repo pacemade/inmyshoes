@@ -35,15 +35,13 @@
   }
 }
 
-
 .sub-title {
-  font-size: $font3;
   color: white;
   font-family: 'IBM Plex Serif', serif;
   font-style: italic;
+  text-align: center;
   p {
-    padding: 0;
-    margin: 28px 0 0 0;
+    font-size: $font2;
   }
 }
 
@@ -85,12 +83,21 @@
 
 // title font changes
 @media only screen and (min-width: $medium) {
+
   .title {
     font-size: $font6;
   }
   .header-links {
     a, li {
       font-size: $font1;
+    }
+  }
+
+  .sub-title {
+    p {
+      font-size: $font3;
+      padding: 0;
+      margin: 28px 0 0 0;
     }
   }
 }
