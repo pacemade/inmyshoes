@@ -81,8 +81,10 @@
 
 .quote {
   text-align: center;
-  border-left: 3px solid $dark;
+  border-left: 3px solid $highlights;
   font-style: italic;
+  padding-top: 100px;
+  padding-bottom: 100px;
   h2 {
     color: $dark;
     opacity: 0.5;
