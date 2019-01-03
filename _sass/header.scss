@@ -8,11 +8,15 @@
 .description {
   text-align: center;
   margin: 0 auto;
-  font-family: 'IBM Plex Serif', serif;
+  padding: 50px 20%;
   p {
     font-size: $font3;
     color: white;
     font-style: italic;
+  }
+  h3 {
+    font-style: normal;
+    font-weight: normal;
   }
 }
 
