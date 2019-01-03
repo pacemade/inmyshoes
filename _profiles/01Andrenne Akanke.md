@@ -14,7 +14,7 @@ images: /assets/images/portraits/andrenne_akanke/andrenne_akanke-
 quote1: I’ve already fallen in love with ME, I've already fallen in love with the journey.
 quote2: Be in a place where I can see everyone as a reflection of me. Where we're not disconnected...
 quote3: When you wanna talk about REAL HARD SHIT to do, it’s really forgiving people.
-quote4: Just focus on doing you, you know? Just do it with the intent, good, bad, whatever, do YOU, own it and accept it!
+quote4: Just focus on doing YOU, you know? Just do it with the intent, good, bad, whatever, do YOU, own it and accept it!
 quote5: We can all meet on a vibe, a frequency of creating and loving and enjoying it, enjoying the process, and that’s what it’s about.
 ---
 
@@ -133,7 +133,7 @@ Hmm... shaaare... vibes with! [laughs] Like build with, create with... but then 
 
 What do I like most about myself? That's kinda hard, I love everything about myself! But <i>most</i>... is my self expression, just the way that I express myself is not a particular way: it's through everything that I do, and I’m very unapologetic at that, and I love that. Yeah, not everybody can do something and be okay with it.
 
-It's all about intention, when you’re seated in, you know? Having my intentions are good; my intentions are pure. Even if it comes across as like... yeah, it's just like, "No." Sometimes what you accept how people see things, it's just not... you can’t help that, right? And if you spend a lot of time trying to focus on helping people see YOU, the way you want to be seen... like, sometimes you just get lost in the sauce. Just focus on doing you, you know? Just do it with the intent: good, bad, whatever, do YOU, own it and accept it. It is what it is, be balanced!
+It's all about intention, when you’re seated in, you know? Having my intentions are good; my intentions are pure. Even if it comes across as like... yeah, it's just like, "No." Sometimes what you accept how people see things, it's just not... you can’t help that, right? And if you spend a lot of time trying to focus on helping people see YOU, the way you want to be seen... like, sometimes you just get lost in the sauce. Just focus on doing <i>you</i>, you know? Just do it with the intent: good, bad, whatever, do YOU, own it and accept it. It is what it is, be balanced!
 
 <h3 class="question">What, if anything, is too serious to joke about?</h3>
 
