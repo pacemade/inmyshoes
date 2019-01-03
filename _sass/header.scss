@@ -8,15 +8,15 @@
 .description {
   text-align: center;
   margin: 0 auto;
-  padding: 30px 20% 65px 20%;
-  p {
-    font-size: $font3;
-    color: white;
-    font-style: italic;
-  }
+  padding: 30px 15% 65px 15%;
   h3 {
     font-style: normal;
     font-weight: normal;
+    padding: 50px 0px;
+  }
+  hr {
+    width: 70%;
+    align: center;
   }
 }
 
@@ -27,15 +27,20 @@
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
-
-.site-header {
   font-family: 'Oswald', sans-serif;
   hr {
     width: 30%;
     margin-left: auto;
     margin-right: auto;
   }
+}
+
+
+.sub-title {
+  font-size: $font3;
+  color: white;
+  font-family: 'IBM Plex Serif', serif;
+  font-style: italic;
 }
 
 .header-links {
