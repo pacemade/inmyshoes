@@ -73,19 +73,19 @@
   // overflow: hidden;
   // height: 80vh;
   img {
-    padding: 5px;
+    padding: 1%;
     padding-bottom: 30px;
-    width: 41%;
+    width: 48%;
   }
 }
 
 .quote {
   text-align: center;
-  border-left: 3px solid $highlights;
   font-style: italic;
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 150px;
   h2 {
+    border-left: 3px solid $highlights;
     color: $dark;
     opacity: 0.5;
     font-size: $font3;
