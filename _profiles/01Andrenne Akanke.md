@@ -43,8 +43,8 @@ I have a lot of experience putting shows together. I volunteered with galleries 
 
 For the last couple years, I was thinking about doing my show, because I realized... I didn’t have my own show! I think I shy’d away every time I had the opportunity to do something for me. I would always do something on a larger scale and involve as many people, just because I know a lot of people that do these things, you know? In the art industry there are artists, and I feel like why not just share all that? "You do this, you do that and I do this, let’s do something together!" That was very much a leader in making sure that there were I guess... platforms for myself and other youths. So I did that, but then I realized, “Omgosh, I still have not done something for ME," you know what I mean? Celebrating my work. I’m going to do this show because I need it... for me, right? Not just for me, but its still for everyone right? But I need, I NEED a room filled with art that was made by myself or... you know? Came from my own like... how can I transform this paint, make it my own and how can I handle that?
 
-<div class="quote to-fade-up">
-  <h2>"{{ page.quote1 }}"</h2>
+<div class="quote">
+  <h2 class="to-fade-up">{{ page.quote1 }}"</h2>
 </div>
 
 <h3 class="question">What are some problems that you deal with that other people might not experience?</h3>
@@ -69,8 +69,8 @@ Uhmmm it depends... for what, right? What do they want to recognize me for? Some
 
 Who would I invite to a dinner party? Dead or alive... who would I? Hooold on... my <i>shadow</i>! Can I say that? I say that because we spend so much time running from ourselves right? Just hating ourselves when you look at shit at the end of the day. If we all look for someone to blame for our shit, we go around sometimes looking for that person to blame for all the wrongs, or that person to thank for all the rights. But either way, at the end of the day, it all comes down to YOU. So I’m saying, all of that stuff that I tried to run away from, or shy away from... myself. I would sit down with myself, my shadow and have a heart-to-heart. It’s true when you think about it because nobody is more important than YOU.
 
-<div class="quote to-fade-up">
-  <h2>"{{ page.quote2 }}"</h2>
+<div class="quote">
+  <h2 class="to-fade-up">{{ page.quote2 }}"</h2>
 </div>
 
 <h3 class="question">What would constitute a perfect day for you, from the moment you wake up, to when you go to bed?</h3>
@@ -94,8 +94,8 @@ If I could change anything... hmm... how I was raised... hmmm... OH hmm, I would
 
 Coming to Canada, for a VERY long time, since I was I kid! YEEEAAAH man, that was the dream, that was the focus and I held on to that... my mom was here right? So she would tell me of the life here and I would be like, “WOOOW!” [laughs] Mad malls, shopping, this, that, I totally was like <i>okay</i> it’s like I saw the world before I even got here... so when I got here, it was really was like, "Wow...” like actually seeing it, you know?
 
-<div class="quote to-fade-up">
-<h2>"{{ page.quote3 }}"</h2>
+<div class="quote">
+  <h2 class="to-fade-up">{{ page.quote3 }}"</h2>
 </div>
 
 <h3 class="question">What’s the greatest accomplishment so far in your life?</h3>
@@ -124,8 +124,8 @@ Mmm... love and affection in my life. Okay, so... love? and affection... I’m v
 
 Hmm... shaaare... vibes with! [laughs] Like build with, create with... but then again, I do... I’m not alone in this world, there’s always people. I’m saying to end that sentence, I wish I could have someone to vibe with.
 
-<div class="quote to-fade-up">
-  <h2>"{{ page.quote4 }}"</h2>
+<div class="quote">
+  <h2 class="to-fade-up">{{ page.quote4 }}"</h2>
 </div>
 
 <h3 class="question">What do you like most about yourself?</h3>

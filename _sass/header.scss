@@ -1,17 +1,42 @@
-.title {
-  color: white;
-  text-align: center;
-  font-size: $font5;
-  margin: 0 auto;
+.header-container {
+  width: 100%;
+  height: 100%;
+  background-image: url(/assets/images/headers/andrenne_akanke.jpg);
+  top: 0px;
+
+// parallax
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
-.sub-title {
-  color: white;
-  font-family: 'IBM Plex Serif', serif;
-  font-style: italic;
-  text-align: center;
-  p {
+.site-header {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-family: 'Oswald', sans-serif;
+  .title, .sub-title {
+    text-align: center;
+    text-shadow: 1.5px 1.5px $darkest;
+  }
+  .title {
+    color: white;
+    font-size: $font5;
+    margin: 0 auto;
+  }
+  .sub-title {
+    color: white;
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
     font-size: $font2;
+  }
+  .line-break-header {
+    width: 30%;
   }
 }
 
@@ -24,24 +49,9 @@
     font-weight: normal;
     padding: 50px 0px;
   }
-  hr {
+  .line-break-description {
     width: 70%;
     align: center;
-  }
-}
-
-.site-header {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  font-family: 'Oswald', sans-serif;
-  hr {
-    width: 30%;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
@@ -65,19 +75,7 @@
   }
 }
 
-.header-container {
-  width: 100%;
-  height: 100%;
-  background-image: url(/assets/images/headers/andrenne_akanke.jpg);
-  top: 0px;
 
-// parallax
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
 
 
 

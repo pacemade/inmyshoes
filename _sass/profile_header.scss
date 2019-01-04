@@ -4,9 +4,9 @@
   background-color: white;
   border-bottom: 1px solid $dark;
 
-  -moz-box-shadow:    0px 1px 5px $dark;
-  -webkit-box-shadow: 0px 1px 5px $dark;
-  box-shadow:         0px 1px 5px $dark;
+  -moz-box-shadow:    0px 1px 3px $dark;
+  -webkit-box-shadow: 0px 1px 3px $dark;
+  box-shadow:         0px 1px 3px $dark;
 
   padding: 0px;
   margin: 0px;
@@ -16,7 +16,7 @@
 }
 
 .profile-header {
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Oswald', sans-serif;
   h1, h2 {
     padding: 0;
     margin: 0;
@@ -24,7 +24,7 @@
   }
   .profile-header-title {
     font-size: $font2;
-    padding: 5px $fifth1;
+    padding: 2px $fifth1;
     color: $darkest;
   }
   .profile-header-name {
@@ -44,7 +44,7 @@
   .profile-header {
     .profile-header-title {
       font-size: $font3;
-      padding: 7.5px $fifth1;
+      padding: 1.5px $fifth1;
     }
     .profile-header-name {
       font-size: $font2;
@@ -56,8 +56,16 @@
 
 
 @media only screen and (min-width: $large) {
+
   .profile-header-container {
     height: $fifth6;
   }
+
+  .profile-header {
+    .profile-header-title {
+      padding: 2.5px $fifth1;
+    }
+  }
+
 
 }

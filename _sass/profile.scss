@@ -2,12 +2,14 @@
   width: 95%;
   margin: 0px auto;
   margin-top: 100px;
-  .intro-word {
-    color: $darkest;
-    text-align: left;
+  .profile-pic {
+    img {
+      max-height: 80vh;
+      object-fit: contain;
+    }
   }
   p {
-    line-height: 1.6em;
+    line-height: 1.65em;
     padding-bottom: $fifth2;
   }
   .question {
@@ -15,20 +17,20 @@
     font-weight: bold;
     font-size: $font2;
     padding-top: $fifth2;
+    padding-bottom: $fifth1;
   }
+}
+
+.intro-word {
+  color: $darker;
+  font-size: $font2;
 }
 
 .profile-title {
   padding-top: 10%;
   text-align: center;
-  .profile-pic {
-    img {
-      max-height: 80vh;
-      object-fit: contain;
-    }
-  }
   .profile-name {
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: $darkest;
     font-size: $font3;
   }
@@ -37,7 +39,7 @@
     font-style: italic;
     font-size: $font1;
   }
-  .profile-break-line {
+  .profile-line-break {
     width: 37.5%;
     margin: 62.5px auto;
   }
@@ -48,6 +50,7 @@
   padding-top: 100px;
   padding-bottom: 100px;
   h2 {
+    transition: 2s;
     border-left: 3px solid $highlights;
     font-weight: lighter;
     color: $dark;
@@ -90,7 +93,7 @@
 }
 
 .disclaimer {
-  padding-top: 37.5px;
+  padding-top: $fifth4;
   text-align: center;
 }
 
@@ -125,5 +128,35 @@
     padding: 100px 5%;
   }
 
+
+}
+
+@media only screen and (min-width: $large) {
+
+  .profile-wrapper {
+    .intro-word {
+      padding-left: 23%;
+      padding-right: 23%;
+    }
+    .question, p {
+      padding-left: 25%;
+      padding-right: 25%;
+    }
+  }
+
+  .profile-title {
+    .profile-break-line {
+      width: 25%;
+    }
+  }
+
+  .profile-double-container {
+    width: 73%;
+    margin: 0 auto;
+  }
+
+  .quote {
+    padding: 100px 10%;
+  }
 
 }
