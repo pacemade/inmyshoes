@@ -1,6 +1,8 @@
-.profile_wrapper {
+.profile-wrapper {
+  width: 99%;
   margin: 0px auto;
   margin-top: 100px;
+
   p, h1, h3 {
     color: $darkest;
   }
@@ -9,7 +11,7 @@
     padding: 0px 10px 10px 10px;
   }
   p {
-    line-height: $font3;
+    line-height: 1.8em;
     padding: 0px 10px 10px 10px;
   }
   hr {
@@ -18,21 +20,21 @@
   }
 }
 
-.head_profile {
+.profile-pic {
   img {
     max-height: 80vh;
     object-fit: contain;
   }
 }
 
-.profile_header {
+.profile-title {
   padding-top: 10%;
   text-align: center;
   font-family: 'Oswald', sans-serif;
-  h1 {
+  .profile-name {
     font-size: $font4;
   }
-  h2 {
+  .profile-occupation {
     font-size: $font3;
   }
 }
@@ -130,8 +132,8 @@
     }
   }
 
-  .profile_wrapper {
-    width: 90%;
+  .profile-wrapper {
+    width: 70%;
     .intro-word {
       padding: 0px 10vw 0px 10vw;
       opacity: 0.8;

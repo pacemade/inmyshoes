@@ -7,20 +7,17 @@ html, body {
   // font-family: 'Nunito', sans-serif;
   // font-family: 'Roboto Slab', serif;
   // font-family: 'Rubik', sans-serif;
-  font-family: 'IBM Plex Serif', serif;
+  // font-family: 'IBM Plex Serif', serif;
+  font-family: 'Crimson Text', serif;
 }
 
 body {
   background-color: $basecolor;
 }
 
-.changeColor {
-  background-color: black;
-}
-
 // wrapper is essentially body, on top of header fo cool scrolling action
 .wrapper {
-  width: 95%;
+  width: 100%;
   margin: 3em auto;
   background-color: $basecolor;
   // margin-top: 230px;
@@ -45,8 +42,5 @@ a:hover {
 @media only screen and (min-width: $medium) {
   html, body {
     font-size: 18px;
-  }
-  .wrapper {
-    width: 85%;
   }
 }
