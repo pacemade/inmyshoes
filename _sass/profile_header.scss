@@ -1,6 +1,6 @@
 .profile-header-container {
   width: 100%;
-  height: 65px;
+  height: $fifth3;
   background-color: white;
   border-bottom: 1px solid $dark;
 
@@ -16,20 +16,48 @@
 }
 
 .profile-header {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   h1, h2 {
     padding: 0;
     margin: 0;
     display: inline-block;
   }
-  h1 {
-    font-size: $font3;
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-  h2 {
+  .profile-header-title {
     font-size: $font2;
-    border-left: 1px solid $darkest;
-    padding-left: 10px;
+    padding: 5px $fifth1;
+    color: $darkest;
   }
+  .profile-header-name {
+    font-size: $font1;
+    color: $darker;
+    border-left: 1px solid $darker;
+    padding-left: $fifth1;
+  }
+}
+
+@media only screen and (min-width: $medium) {
+
+  .profile-header-container {
+    height: $fifth5;
+  }
+
+  .profile-header {
+    .profile-header-title {
+      font-size: $font3;
+      padding: 7.5px $fifth1;
+    }
+    .profile-header-name {
+      font-size: $font2;
+      margin: 7.5px 0;
+    }
+  }
+
+
+}
+
+@media only screen and (min-width: $large) {
+  .profile-header-container {
+    height: $fifth6;
+  }
+
 }

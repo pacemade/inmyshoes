@@ -1,61 +1,61 @@
 .profile-wrapper {
-  width: 99%;
+  width: 95%;
   margin: 0px auto;
   margin-top: 100px;
-
-  p, h1, h3 {
+  .intro-word {
     color: $darkest;
-  }
-  h2 {
-    color: $dark;
-    padding: 0px 10px 10px 10px;
+    text-align: left;
   }
   p {
-    line-height: 1.8em;
-    padding: 0px 10px 10px 10px;
+    line-height: 1.6em;
+    padding-top: 12.5px;
   }
-  hr {
-    width: 30%;
-    margin: 50px auto;
-  }
-}
-
-.profile-pic {
-  img {
-    max-height: 80vh;
-    object-fit: contain;
+  .question {
+    color: $darkest;
+    font-weight: bold;
+    font-size: $font2;
   }
 }
 
 .profile-title {
   padding-top: 10%;
   text-align: center;
-  font-family: 'Oswald', sans-serif;
-  .profile-name {
-    font-size: $font4;
+  .profile-pic {
+    img {
+      max-height: 80vh;
+      object-fit: contain;
+    }
   }
-  .profile-occupation {
+  .profile-name {
+    font-family: 'Fjalla One', sans-serif;
+    color: $darkest;
     font-size: $font3;
   }
+  .profile-occupation {
+    color: $darker;
+    font-style: italic;
+    font-size: $font1;
+  }
+  .profile-break-line {
+    width: 37.5%;
+    margin: 62.5px auto;
+  }
 }
 
-.next {
-  float: right;
-}
-
-.disclaimer {
+.quote {
   text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  h2 {
+    border-left: 3px solid $highlights;
+    color: $dark;
+    font-size: $font3;
+  }
 }
 
 .playlists {
   text-align: center;
 }
-
-.question {
-  font-size: $font2;
-  padding: 0px 10px 10px 10px;
-}
-
 
 // profile image & quote containers -------
 
@@ -64,6 +64,7 @@
     max-height: 85vh;
     object-fit: contain;
     padding-bottom: 30px;
+    padding-top: 30px;
   }
 }
 
@@ -77,91 +78,22 @@
   img {
     padding: 1%;
     padding-bottom: 30px;
+    padding-top: 30px;
     width: 48%;
   }
 }
 
-.quote {
+.next {
+  float: right;
+}
+
+.disclaimer {
+  padding-top: 37.5px;
   text-align: center;
-  font-style: italic;
-  padding-top: 100px;
-  padding-bottom: 150px;
-  h2 {
-    border-left: 3px solid $highlights;
-    color: $dark;
-    opacity: 0.5;
-    font-size: $font3;
-  }
 }
 
-// fade in animation for quotes
 
-.to-fade-up {
-  opacity: 0;
-  -moz-transition: all 1s ease-out;
-  -webkit-transition: all 1s ease-out;
-  -o-transition: all 1s ease-out;
-  transition: all 1s ease-out;
-  -moz-transform: translate3d(0px, 50px, 0px);
-  -webkit-transform: translate3d(0px, 50px, 0px);
-  -o-transform: translate(0px, 50px);
-  -ms-transform: translate(0px, 50px);
-  transform: translate3d(0px, 50px, 0px);
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
+@media only screen and (min-width: $large) {
 
-.faded-up {
-  opacity: 1;
-  -moz-transform: translate3d(0px, 0px, 0px);
-  -webkit-transform: translate3d(0px, 0px, 0px);
-  -o-transform: translate(0px, 0px);
-  -ms-transform: translate(0px, 0px);
-  transform: translate3d(0px, 0px, 0px);
-}
-
-@media only screen and (min-width: $medium) {
-
-  .profile_header {
-    h1 {
-      font-size: $font4;
-    }
-    h2 {
-      font-size: $font3;
-    }
-  }
-
-  .profile-wrapper {
-    width: 70%;
-    .intro-word {
-      padding: 0px 10vw 0px 10vw;
-      opacity: 0.8;
-    }
-    // h1 is name, h2 is the occupation
-    h1, h2 {
-      padding: 0px 12vw 0px 12vw;
-      margin: 0px;
-    }
-    p {
-      padding: 0px 12vw 30px 12vw;
-    }
-    h3 {
-      padding: 0px 12vw 10px 12vw;
-    }
-    h4 {
-      font-size: $font1;
-    }
-    hr {
-      margin: 75px auto;
-    }
-  }
-
-  .profile_double {
-    grid-template-columns: auto, auto;
-    img {
-      max-height: 100%;
-    }
-  }
 
 }
