@@ -35,67 +35,40 @@
     font-style: italic;
     font-size: $font2;
   }
-  .line-break-header {
-    width: 30%;
+  .header-line-break {
+    width: 37.5%;
+    box-shadow: 1.5px 1.5px $darkest;
   }
 }
 
-.description {
+.description-container {
   text-align: center;
   margin: 0 auto;
   padding: 30px 15% 65px 15%;
-  h3 {
+  .description {
     font-style: normal;
     font-weight: normal;
     padding: 50px 0px;
   }
-  .line-break-description {
-    width: 70%;
+  .description-line-break {
+    width: 37.5%;
     align: center;
   }
 }
 
-.header-links {
-  ul {
-    list-style-type: none;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-  }
-  li {
-    display: inline-block;
-    color: $dark;
-  }
-  a {
-    padding-left: 1vw;
-    padding-right: 1vw;
-  }
-  a, li {
-    font-size:$font2;
-  }
-}
-
-
-
-
-
 // title font changes
-@media only screen and (min-width: $medium) {
+@media only screen and (min-width: $large) {
 
-  .title {
-    font-size: $font6;
-  }
-  .header-links {
-    a, li {
-      font-size: $font1;
+  .site-header {
+    .title {
+      font-size: $font6;
+    }
+    .sub-title {
+      font-size: $font2;
+    }
+    .header-line-break {
+      margin-bottom: 44px;
     }
   }
 
-  .sub-title {
-    p {
-      font-size: $font3;
-      padding: 0;
-      margin: 28px 0 0 0;
-    }
-  }
 }
