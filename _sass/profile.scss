@@ -8,12 +8,13 @@
   }
   p {
     line-height: 1.6em;
-    padding-top: 12.5px;
+    padding-bottom: $fifth2;
   }
   .question {
     color: $darkest;
     font-weight: bold;
     font-size: $font2;
+    padding-top: $fifth2;
   }
 }
 
@@ -32,7 +33,7 @@
     font-size: $font3;
   }
   .profile-occupation {
-    color: $darker;
+    color: $dark;
     font-style: italic;
     font-size: $font1;
   }
@@ -44,10 +45,11 @@
 
 .quote {
   text-align: center;
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   h2 {
     border-left: 3px solid $highlights;
+    font-weight: lighter;
     color: $dark;
     font-size: $font3;
   }
@@ -93,7 +95,35 @@
 }
 
 
-@media only screen and (min-width: $large) {
+@media only screen and (min-width: $medium) {
+
+  .profile-wrapper {
+    .intro-word {
+      padding-left: 16%;
+      padding-right: 16%;
+    }
+    .question, p {
+      padding-left: 17%;
+      padding-right: 17%;
+    }
+    .question {
+      font-size: $font2;
+    }
+  }
+
+  .profile-title {
+    padding-top: 10%;
+    .profile-name {
+      font-size: $font4;
+    }
+    .profile-occupation {
+      font-size: $font2;
+    }
+  }
+
+  .quote {
+    padding: 100px 5%;
+  }
 
 
 }
