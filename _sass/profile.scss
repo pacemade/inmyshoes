@@ -51,10 +51,16 @@
   padding-bottom: 100px;
   h2 {
     transition: 2s;
-    border-left: 3px solid $highlights;
+    // border-left: 3px solid $highlights;
     font-weight: lighter;
     color: $dark;
     font-size: $font3;
+  }
+  hr {
+
+    width: 25%;
+    margin-top: $fifth6;
+    margin-bottom: $fifth6;
   }
 }
 
@@ -65,11 +71,14 @@
 // profile image & quote containers -------
 
 .profile_extra1 {
-  img {
-    max-height: 85vh;
-    object-fit: contain;
-    padding-bottom: 30px;
-    padding-top: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  a {
+    display: inline-block;
+    img {
+      max-height: 85vh;
+      object-fit: contain;
+    }
   }
 }
 
@@ -147,6 +156,9 @@
 
   .quote {
     padding: 100px 10%;
+    hr {
+      width: 12.5%;
+    }
   }
 
 }
