@@ -32,12 +32,12 @@
   .profile-name {
     font-family: 'Oswald', sans-serif;
     color: $darkest;
-    font-size: $font3;
+    font-size: $font4;
   }
   .profile-occupation {
     color: $dark;
     font-style: italic;
-    font-size: $font1;
+    font-size: $font2;
   }
   .profile-line-break {
     width: 37.5%;
@@ -80,7 +80,7 @@
   width: 100%;
   // overflow: hidden;
   // height: 80vh;
-  img {
+  a {
     padding: 1%;
     padding-bottom: 30px;
     padding-top: 30px;
@@ -110,16 +110,6 @@
       padding-right: 17%;
     }
     .question {
-      font-size: $font2;
-    }
-  }
-
-  .profile-title {
-    padding-top: 10%;
-    .profile-name {
-      font-size: $font4;
-    }
-    .profile-occupation {
       font-size: $font2;
     }
   }
