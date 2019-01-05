@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   img {
-    height: 50vh;
+    height: 60vh;
     object-fit: cover;
     border-radius: 2px;
   }
@@ -29,21 +29,31 @@
     .stats-name {
       font-size: $font4;
       padding: 0px 30px;
+      margin-bottom: -2.5%;
     }
     .stats-occupation {
       font-size: $font1;
       font-family: 'IBM Plex Serif', serif;
       font-style: italic;
       font-weight: lighter;
-      margin-top: $fifth1;
-      margin-bottom: $fifth2;
       padding: 0px 30px;
+      margin-top: $fifth1;
+      margin-bottom: $fifth1;
     }
     .stats-favorite {
       font-family: 'IBM Plex Serif', serif;
       font-size: $font1;
       font-weight: lighter;
       padding: 0px 30px;
+    }
+    .profile-view-button {
+      display: inline-block;
+      border-radius: 3px;
+      border: 2px solid white;
+      box-shadow: 1.5px 1.5px 5px $darkest;
+      text-shadow: 1.5px 1.5px 5px $darkest;
+      margin-top: 37.5px;
+      padding: 5px 25px;
     }
   }
 }
@@ -82,6 +92,9 @@
       }
       .stats-favorite {
         font-size: $font0;
+      }
+      .profile-view-button {
+        display: none;
       }
     }
   }
