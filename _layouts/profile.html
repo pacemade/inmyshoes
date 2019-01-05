@@ -4,7 +4,9 @@ layout: default_p
 
 <div class="profile-wrapper to-fade-up">
   <div class="profile-pic">
-    <img src={{ page.headImage }} alt="">
+    <a href="{{ page.headImage }}" data-lightbox="{page.firstName}">
+      <img src="{{ page.headImage }}" alt="oh man oh geez">
+    </a>
   </div>
   <div class="profile-title">
     <h1 class="profile-name">{{ page.firstName }} {{ page.lastName }}</h1>
