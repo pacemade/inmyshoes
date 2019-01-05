@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
-<div class="description-container to-fade-up">
-  <hr class="description-line-break">
-  <h3 class="description">I've had the privilege of meeting incredible personalities from different walks of life, all with unique goals and personal values. However, one thing they do have in common, is the fact that they had inspired me to be a better version of myself. These are the stories of those individuals.</h3>
-  <hr class="description-line-break">
-</div>
+<div class="main-container">
+  <div class="description-container to-fade-up">
+    <hr class="description-line-break">
+    <h3 class="description">I've had the privilege of meeting incredible personalities from different walks of life, all with unique goals and personal values. However, one thing they do have in common, is the fact that they had inspired me to be a better version of myself. These are the stories of those individuals.</h3>
+    <hr class="description-line-break">
+  </div>
 
-<div class="card-container">
-  {% for profile in site.profiles %}
-    <div class="card to-fade-up">
-        <a href={{ profile.url }}>
-          <img class="blogImage" src={{ profile.profileImage }}>
-        </a>
-      <div class="stats">
-        <p>{{ profile.firstName }} {{ profile.lastName }}</p>
-        <p>{{ profile.occupation }}</p>
-        <p>Favorite {{ profile.factCategory }}: {{ profile.factFact }} </p>
+  <div class="card-container">
+    {% for profile in site.profiles %}
+      <div class="card to-fade-up">
+          <a href={{ profile.url }}>
+            <img class="blogImage" src={{ profile.profileImage }}>
+          </a>
+        <div class="stats">
+          <h1 class="stats-name">{{ profile.firstName }} {{ profile.lastName }}</h1>
+          <h2 class="stats-occupation">{{ profile.occupation }}</h2>
+          <h3 class="stats-favorite">Favorite {{ profile.factCategory }}: {{ profile.factFact }} </h3>
+        </div>
       </div>
-    </div>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>

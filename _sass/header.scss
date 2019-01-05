@@ -22,7 +22,7 @@
   font-family: 'Oswald', sans-serif;
   .title, .sub-title {
     text-align: center;
-    text-shadow: 1.5px 1.5px $darkest;
+    text-shadow: 1.5px 1.5px 5px $darkest;
   }
   .title {
     color: white;
@@ -37,22 +37,7 @@
   }
   .header-line-break {
     width: 37.5%;
-    box-shadow: 1.5px 1.5px $darkest;
-  }
-}
-
-.description-container {
-  text-align: center;
-  margin: 0 auto;
-  padding: 30px 15% 65px 15%;
-  .description {
-    font-style: normal;
-    font-weight: normal;
-    padding: 50px 0px;
-  }
-  .description-line-break {
-    width: 37.5%;
-    align: center;
+    box-shadow: 1.5px 1.5px 5px $darkest;
   }
 }
 
