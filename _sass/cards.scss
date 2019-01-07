@@ -15,6 +15,11 @@
     height: 60vh;
     object-fit: cover;
     border-radius: 2px;
+    -webkit-filter: brightness(70%);
+    box-shadow: 5px 5px 5px $dark;
+  }
+  img:hover {
+    transform: translate(5px, 5px);
   }
   .stats {
     font-family: 'Oswald', sans-serif;
@@ -46,29 +51,29 @@
       font-weight: lighter;
       padding: 0px 30px;
     }
-    .profile-view-button {
-      display: inline-block;
-      border-radius: 3px;
-      border: 2px solid white;
-      box-shadow: 1.5px 1.5px 5px $darkest;
-      text-shadow: 1.5px 1.5px 5px $darkest;
-      margin-top: 37.5px;
-      padding: 5px 25px;
-    }
+    // .profile-view-button {
+    //   display: inline-block;
+    //   border-radius: 3px;
+    //   border: 2px solid white;
+    //   box-shadow: 1.5px 1.5px 5px $darkest;
+    //   text-shadow: 1.5px 1.5px 5px $darkest;
+    //   margin-top: 37.5px;
+    //   padding: 5px 25px;
+    // }
   }
 }
 
 
 @media only screen and (min-width: $large) {
-
   .card {
     img {
       height: 75vh;
       transition: 0.5s;
+      -webkit-filter: brightness(100%);
+      box-shadow: none;
     }
     img:hover {
       background-color: $darkest;
-      transform: translate(0px, -8px);
       box-shadow: 5px 5px 5px $dark;
       transform: translate(-5px, -5px);
       -webkit-filter: brightness(70%);
