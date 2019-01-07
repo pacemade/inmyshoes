@@ -1,9 +1,5 @@
 window.onload = function () {
-
-
   // Fade Up ---------------------------------------------
-
-  //Cache reference to window and animation items
   var $animation_elements = $('.to-fade-up');
   var $window = $(window);
 
@@ -31,5 +27,4 @@ window.onload = function () {
       }
     });
   }
-
 }
