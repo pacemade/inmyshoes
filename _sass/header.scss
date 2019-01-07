@@ -1,48 +1,55 @@
-.header-container {
-  width: 100%;
-  height: 100%;
-  background-image: url(/assets/images/headers/andrenne_akanke.jpg);
-  top: 0px;
-
-// parallax
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .site-header {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  font-family: 'Oswald', sans-serif;
-  .title, .sub-title {
-    text-align: center;
-    text-shadow: 1.5px 1.5px 5px $darkest;
+  .mobile-header {
+    height: 100vh;
+    object-fit: cover;
   }
-  .title {
-    color: white;
-    font-size: $font5;
-    margin: 0 auto;
-  }
-  .sub-title {
-    color: white;
-    font-family: 'IBM Plex Serif', serif;
-    font-style: italic;
-    font-size: $font2;
-  }
-  .header-line-break {
-    width: 37.5%;
-    box-shadow: 1.5px 1.5px 5px $darkest;
-  }
+  // font-family: 'Oswald', sans-serif;
+  // margin: 0;
+  // position: absolute;
+  // top: 50%;
+  // left: 50%;
+  // -ms-transform: translate(-50%, -50%);
+  // transform: translate(-50%, -50%);
+  // .title, .sub-title {
+  //   text-align: center;
+  //   text-shadow: 1.5px 1.5px 5px $darkest;
+  // }
+  // .title {
+  //   color: white;
+  //   font-size: $font5;
+  //   margin: 0 auto;
+  // }
+  // .sub-title {
+  //   color: white;
+  //   font-family: 'IBM Plex Serif', serif;
+  //   font-style: italic;
+  //   font-size: $font2;
+  // }
+  // .header-line-break {
+  //   width: 37.5%;
+  //   box-shadow: 1.5px 1.5px 5px $darkest;
+  // }
 }
 
 // title font changes
 @media only screen and (min-width: $large) {
 
+  .header-container {
+    width: 100%;
+    height: 100%;
+    background-image: url(/assets/images/headers/andrenne_akanke.jpg);
+    top: 0px;
+
+  // parallax
+    background-image: url(/assets/images/headers/andrenne_akanke.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .mobile-header {
+      display: none;
+    }
+  }
   .site-header {
     .title {
       font-size: $font6;
