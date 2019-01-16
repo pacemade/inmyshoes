@@ -3,7 +3,7 @@ layout: profile
 
 profileImage: /assets/images/portraits/kim_duong/kim_duong_profile.jpg
 firstName: Kimberly
-lastName: Anh Duong
+lastName: Anh
 occupation: Beauty Artist
 factCategory: Place to Be
 factFact: The deep end

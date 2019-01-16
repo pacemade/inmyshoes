@@ -88,10 +88,13 @@
   }
 }
 
-.next {
-  float: right;
+.prev_next {
+  font-size: $font1;
+  font-style: italic;
+  .next {
+    float: right;
+  }
 }
-
 .disclaimer {
   padding-top: $fifth4;
   text-align: center;
