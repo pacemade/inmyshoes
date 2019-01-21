@@ -1,8 +1,6 @@
 .card-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 2rem;
-  padding: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(385px, 1fr));
 }
 
 .card {
@@ -11,15 +9,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  img {
-    height: 60vh;
-    object-fit: cover;
-    border-radius: 2px;
-    -webkit-filter: brightness(70%);
-    box-shadow: 5px 5px 5px $dark;
+  a {
+    max-height: 100vh;
   }
-  img:hover {
-    transform: translate(5px, 5px);
+  img {
+    height: 100vh;
+    object-fit: cover;
+    -webkit-filter: brightness(70%);
   }
   .stats {
     font-family: 'Oswald', sans-serif;
@@ -63,43 +59,58 @@
   }
 }
 
+@media only screen and (min-width: $medium) {
+  .card-container {
+    grid-gap: 2rem;
+    padding: 1rem;
+    .card {
+    img {
+        height: 50vh;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px $dark;
+      }
+    }
+  }
+}
 
 @media only screen and (min-width: $large) {
-  .card {
-    img {
-      height: 75vh;
-      transition: 0.5s;
-      -webkit-filter: brightness(100%);
-      box-shadow: none;
-    }
-    img:hover {
-      background-color: $darkest;
-      box-shadow: 5px 5px 5px $dark;
-      transform: translate(-5px, -5px);
-      -webkit-filter: brightness(70%);
-    }
-    a:hover + .stats {
-      opacity: 1;
-      -webkit-transform: translateZ(0);
-      transform: scale(1.1)
-    }
-    .stats {
-      opacity: 0;
-      transition: 0.5s;
-      h1, h2, h3 {
-        cursor: pointer;
+  .card-container {
+    .card {
+      img {
+        height: 65vh;
+        transition: 0.5s;
+        -webkit-filter: brightness(100%);
+        box-shadow: none;
       }
-      .stats-name {
-        font-size: $font3;
+      img:hover {
+        background-color: $darkest;
+        box-shadow: 5px 5px 5px $dark;
+        transform: translate(-5px, -5px);
+        -webkit-filter: brightness(70%);
       }
-      .stats-occupation {
-        font-size: $font0;
+      a:hover + .stats {
+        opacity: 1;
+        -webkit-transform: translateZ(0);
+        transform: scale(1.1)
       }
-      .stats-favorite {
-        font-size: $font0;
-      }
-      .profile-view-button {
-        display: none;
+      .stats {
+        opacity: 0;
+        transition: 0.5s;
+        h1, h2, h3 {
+          cursor: pointer;
+        }
+        .stats-name {
+          font-size: $font3;
+        }
+        .stats-occupation {
+          font-size: $font0;
+        }
+        .stats-favorite {
+          font-size: $font0;
+        }
+        .profile-view-button {
+          display: none;
+        }
       }
     }
   }

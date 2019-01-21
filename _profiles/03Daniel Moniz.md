@@ -11,10 +11,11 @@ playlistLink: https://www.youtube.com/watch?v=_FrOQC-zEog&list=PLqLfWv6bj-W39fQO
 
 headImage: /assets/images/portraits/daniel_moniz/daniel_moniz_p.jpg
 images: /assets/images/portraits/daniel_moniz/daniel_moniz-
-quote1: I can have interesting chats with people, help them out and that kind of thing, that’d be cool yeah, but being stopped on the street, less cool.
-quote2: I feel like a robot, like a singing robot.
+quote1: I developed a philosophy over time where every day has to have a chore.
 quote3: The more we can create analogies, relatable situations—the easier it is to learn something. I have a million of those things now, and they just all build up.
-quote4: You can pay for a show, and have paid to be entertained, but it’s not up to you what entertainment means, it’s up to the entertainer.
+quote4: It’s not up to you what entertainment means, it’s up to the entertainer.
+quote5: I mean it might be nice getting a heads up about the technological singularity or something
+quote6: If there’s too much guidance, I start to crumble. I start to rebel.
 
 ---
 
@@ -36,11 +37,13 @@ Who I would invite to a dinner party... wow, I think uhmm... I dunno if I’d su
 
 <h3 class="question">Would you like to be famous one day? If so in what way, if not, why?</h3>
 
+Yeah I wouldn’t mind. I wouldn’t wanna be too famous, but it’s.. the vanity in me wouldn’t mind my name being known <i>(smiles vainly).</i> One of the side projects I have is developing a board game. I’ve been doing that for a few years. It’s very close. But I... again the vanity in me just wants... I mean I want the board game published, but I want it to say “Designed by Daniel Moniz” on it. So it’s like, “Hey, who’s that guy?”, and then I can have interesting chats with people, help them out and that kind of thing. That’d be cool, yeah... but being stopped on the street, less cool.
+
+
 <div class="quote to-fade-up">
   <h2>"{{ page.quote1 }}"</h2>
 </div>
 
-Yeah I wouldn’t mind. I wouldn’t wanna be too famous, but it’s.. the vanity in me wouldn’t mind my name being known <i>(smiles vainly).</i> One of the side projects I have is developing a board game. I’ve been doing that for a few years. It’s very close. But I... again the vanity in me just wants... I mean I want the board game published, but I want it to say “Designed by Daniel Moniz” on it. So it’s like, “Hey, who’s that guy?”, and then I can have interesting chats with people, help them out and that kind of thing. That’d be cool, yeah... but being stopped on the street, less cool.
 
 <h3 class="question">What would constitute the perfect day?</h3>
 
@@ -66,6 +69,13 @@ Yeah I would. I know the answer to this. My father, as an engineer was definitel
 <h3 class="question">If you could wake up and gain any ability/character trait, what would it be? Why?</h3>
 
 I like to consider myself fairly well-rounded, but there’s a couple gaping holes. It’s a combination of things... it’s sort of directional sense, like a visual sense, and I tend to not look around. I mean I can do it, I can turn it on, but I don’t turn it on enough. So if it’s like, if I come in at an intersection from another direction—I might not know where I am and I’m really confused, like, “Wait, where am I again?”. It would be nice to take in my surroundings. Just be aware, there’s just so many things to be aware of and doing that puts you in the moment. I think that makes people happier. But instead I tend to look at... I look at all the people walking by <i>(points at people behind)</i>. We live in this world of people and it’s like, well... there’s other things to look at. Like, imagine I walked to work and then I was trying to describe it to someone how to get there. It would take me a bit. I mean, I could do the streets, but what did I see? And I don’t remember.
+
+
+<div class="quote to-fade-up">
+  <hr>
+  <h2 class="to-fade-up">"{{ page.quote5 }}"</h2>
+  <hr>
+</div>
 
 <h3 class="question">If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know?</h3>
 
@@ -104,6 +114,11 @@ Probably what would... could be argued to be my first date with June? We had a..
 <div class="profile_extra1">
   <img src="{{ page.images }}6.jpg" alt="sexy guy">
 </div>
+
+<div class="quote to-fade-up">
+  <h2>"{{ page.quote6 }}"</h2>
+</div>
+
 
 <h3 class="question">What is your most terrible memory?</h3>
 
@@ -180,12 +195,6 @@ Really, if you perform enough, you start sensing the crowd, sometimes the crowd.
 <div class="profile_extra1">
   <img src="{{ page.images }}23.jpg" alt="sexy guy">
 </div>
-
-<h3 class="question">In either improv or software development, or both, what is currently creating buzz? What’s on the up and up?</h3>
-
-I mean software’s just... there’s always something. I think, the cloud has been big in the last 10 years, but we’re only really starting to grasp the things it can be used for. So that’s a big thing, and thats a thing that I’ve been jumping into myself. For example, for online games: a lot of games go down on day one because too many people use it. If you have a sort of scalable system where it doesn’t matter how many people play... we just pay a little more, and another server comes out, you suddenly don’t have those problems. Either we’re right in the middle of that, or it hasn’t quite happened yet, where, I think, writing games will start involving these larger frameworks. Amazon has this game framework called “Lumberyard”. But with network code, don’t know much about it, what I’m imagining is something where you could produce a game, but already have a lot of the code in place to make it easy to play online. So people could start producing these things really easily. We could have truly massive multiplayer games that are a fraction of the cost that they would’ve been. So some changes within the next 5 years with that.
-
-You know, in a way, we’re also doing improv that no one cares about. The stuff that people are willing to pay for is usually stuff like “Who’s Line Is It Anyway?” So people are trying a lot of interesting things in long-form improv, but by and large people aren’t paying for them. It’s the same as going to see a play - where you have to be there. Movies they figured out like, “Hey, if we film things in a certain way, people will just pay to see the movie, they won’t have to be there”. I think something similar could be done with improv, and I don’t know exactly how it would work yet. For example, if you know about binaural audio: you can record audio, such that you actually use a dummy with ears and you put mics in the ears. What that does is simulates the way our ears help shape the sounds, and what that allows for, as well, is 2-channels, such that if someone then listens to it back on headphones... headphones circumvent the ears, in this area, the shape of the sound tells me where it’s coming from. The fact that it hits one ear before the other. Binaural audio takes all that into account, so someone can listen to it on headphones... you can close your eyes, and you can make it sound like someone’s walking in circles around you. They do this in games, actually. So what would have to happen in something like improv is... we need to make it more visceral, you need to make it feel like you’re there. Or, you break it apart such that being there would be boring, but somehow... the whole is greater than the pieces. Things like if you’re going to wear glasses, show people what it’s like to actually be on stage, or you can have someone, lets say second or third row, with a camera, and binaural audio, it’ll feel like the audience is around you, and you might actually feel like you’re there. As far as I know, no one is doing this. If I had a bit of time, maybe some money... I could take a crack at it.
 
 <h3 class="question">If you were to die this evening, with no opportunity to communicate with anyone, what would you regret not having told something? why haven't you told them?</h3>
 
