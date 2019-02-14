@@ -10,11 +10,10 @@ playlistLink:
 
 headImage: /assets/images/portraits/jenna_huang/jenna_huang-profile.jpg
 images: /assets/images/portraits/jenna_huang/jenna_huang-
-quote1:
-quote2:  
-quote3:
-quote4:
-quote5:
+quote1: But hey, if it works, it works!
+quote2: It brings reassurance and clarity when I can’t think for myself.
+quote3: It's a lot to ask for... but I'd do the same for them.
+quote4: What if that was the one thing that could have changed your entire life?
 
 ---
 <h1 class="intro-word to-fade-up">So...</h1>
@@ -23,10 +22,15 @@ quote5:
 
 <p>Okay so, fast-forward, identity crisis... whatever, that rolled into my career choices as well. I always worked... just to work, and because of that, I never knew what I wanted to do out of high school. So I spent the first four years out of high school jumping from full-time school, work then back to school... Didn't end up finishing but ended up in a tech program and landed an IT position within Rogers. staying for 2 years..will be working for Paytm Canada come February 2019, while also making people feel pretty on the side. I'm a certified skin specialist and permanent makeup artist... mainly doing brows.  Funny thing is that, looking back, despite how insecure I was about my life, seems like my grade school self had it all figured out before I knew it. What I mean is, in grade school—I wrote in my yearbook that my aspirations were to work in the tech industry, in beauty and to have my own company someday... [laughs] Not that I really knew what I wanted to do back then, but working on that third one now yenno.</p>
 
+<div class="quote">
+  <hr>
+  <h2 class="to-fade-up">"{{ page.quote1 }}"</h2>
+  <hr>
+</div>
 
 <h3 class="question">What are some things that you experience that you think others might not?</h3>
 
-<p>I feel like a lot of people have probably experienced imposter syndrome sometime in their life... I really felt that going into my position at Rogers. Not to say that I'm not good at my job. [laughs] I have pretty good metrics but honestly... everyone in my department has some sort of computer, engineering or IT degree and then there's me, [laughs] coming from six months of tech support experience and before that only three months in the tech program I was in. It was really hard not to feel down about myself, everyone goes through this when they get their first REAL job, but I think a majority of people go into the field they studied for in school... I guess what I learned from this experience is what everyone always says, “Network your way up.” I never understood that until I experienced it, corporate politics and all... But hey, if it works it works.</p>
+<p>I feel like a lot of people have probably experienced imposter syndrome sometime in their life... I really felt that going into my position at Rogers. Not to say that I'm not good at my job. [laughs] I have pretty good metrics but honestly... everyone in my department has some sort of computer, engineering or IT degree and then there's me, [laughs] coming from six months of tech support experience and before that only three months in the tech program I was in. It was really hard not to feel down about myself, everyone goes through this when they get their first REAL job, but I think a majority of people go into the field they studied for in school... I guess what I learned from this experience is what everyone always says, “Network your way up.” I never understood that until I experienced it, corporate politics and all... But hey, if it works, it works!</p>
 
 <p>I experienced racism towards Asian people for the first time when I went to Laurier, right out of high school. That was honestly one of the reasons why I couldn’t stay there. It went so far as the Caucasian... white students calling me names, going “Ching Chong ling long,” pulling their eyes... it was really bad. I grew up here and don't really have an accent but <i>damn</i>, just from the way I look... they were probably from the suburbs and had never seen a Chinese person. Then again maybe it was only directed at me... I wasn’t the only Asian person in my dorm.</p>
 
@@ -40,7 +44,7 @@ quote5:
 
 <h3 class="question">What would constitute the perfect day?</h3>
 
-<p>Uhmm... I would plan the day the night before, so I don't have to wake up feeling mentally messy. It’d be silent in the morning, no rushing or questions... or talking. I’m a morning person but I prefer slow quiet mornings. Wake up early, maybe between six to seven, do some yoga, make my favourite breakfast. Hopefully have my outfit laid out for the day as well. [laughs] I don't know, decision fatigue is a real thing, especially for someone with anxiety. Wow, this is actually hard to come up with on the spot since my days are usually filled with to do's. I'd love if it were between 20-30 degrees (Celsius) out, so I could go out and maybe push myself to get more exercise. Come back, listen to motivational audio books, or podcasts... watch a shitload of youtube videos and anime. [laughs] I don’t know, have a nice lunch with lots of fruits, then take a 30 minunte nap, yeah... right at two in the afternoon—I always get tired then. Get some chores done... hard to believe but I love to organize: clean space, clean mind yenno? Then run some errands, visit my manufacturer, lab, check on my booming business. [laughs] I’m currently manifesting it into existence. Do some fun activities, nothing specific is coming to mind right now but something along the lines of excursions. End the night off with dinner before eight and then not have any plans but to chill out the rest of the night. Oh and factor kids into that schedule someday.</p>
+<p>Uhmm... I would plan the day the night before, so I don't have to wake up feeling mentally messy. It’d be silent in the morning, no rushing or questions... or talking. I’m a morning person but I prefer slow quiet mornings. Wake up early, maybe between six to seven, do some yoga, make my favourite breakfast. Hopefully have my outfit laid out for the day as well. [laughs] I don't know, decision fatigue is a real thing, especially for someone with anxiety. Wow, this is actually hard to come up with on the spot since my days are usually filled with to do's. I'd love if it were between 20-30 degrees (Celsius) out, so I could go out and maybe push myself to get more exercise. Come back, listen to motivational audio books, or podcasts... watch a shitload of youtube videos and anime. [laughs] I don’t know, have a nice lunch with lots of fruits, then take a 30 minute nap, yeah... right at two in the afternoon—I always get tired then. Get some chores done... hard to believe but I love to organize: clean space, clean mind yenno? Then run some errands, visit my manufacturer, lab, check on my booming business. [laughs] I’m currently manifesting it into existence. Do some fun activities, nothing specific is coming to mind right now but something along the lines of excursions. End the night off with dinner before eight and then not have any plans but to chill out the rest of the night. Oh, and factor kids into that schedule someday.</p>
 
 
 <h3 class="question">When was the last time to sang to yourself? To someone else?</h3>
@@ -49,7 +53,7 @@ quote5:
 
 <h3 class="question">For what in life do you feel most grateful for?</h3>
 
-<p>I wanna say that I'm grateful for what I've experienced so far... I was telling you about the bullying,the identity crisis, passion crisis... maybe it's just an age thing, but I feel like I'm getting to know myself a little bit better year by year. It's taught me to accept what life throws my way and just deal with whatever comes with it... Also of course, my parents, my family.</p>
+<p>I wanna say that I'm grateful for what I've experienced so far... I was telling you about the bullying, the identity crisis, passion crisis... maybe it's just an age thing, but I feel like I'm getting to know myself a little bit better year by year. It's taught me to accept what life throws my way and just deal with whatever comes with it... Also of course, my parents, my family.</p>
 
 <h3 class="question">If you could change anything in how you were raised or how you grew up, what would you change?</h3>
 
@@ -59,9 +63,15 @@ quote5:
 
 <p>Character trait... I was gonna say confidence, but that's something I'm already working on. [laughs] Character trait... does being less nervous and anxious count? It's definitely played a big role in all of my failures so far: I'd get anxious and can’t make a decision, my <i>gut</i> won’t respond and everything goes downhill from there. I wish I could reassure myself like I reassure other people. Yeah, I guess that goes into being confident as a whole—so character trait I'd want to be known for being humbly confident.</p>
 
+<div class="quote">
+  <hr>
+  <h2 class="to-fade-up">"{{ page.quote2 }}"</h2>
+  <hr>
+</div>
+
 <h3 class="question">If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know?</h3>
 
-<p>To be honest I kind of already do this. [laughs] It's called <i>kau cim</i> in Cantonese: you shake a cup of numbered sticks, the one that comes out represents your current life situation or will tell you about the question you have. I go to the temple once a month or so to do this... it’s pretty accurate for the most part and usually really specific. I wouldn’t say I rely on it, but I’m into the belief of some higher all-knowing power... I guess it brings reassurance and clarity when I can’t think for myself</p>
+<p>To be honest I kind of already do this. [laughs] It's called <i>kau cim</i> in Cantonese: you shake a cup of numbered sticks, the one that comes out represents your current life situation or will tell you about the question you have. I go to the temple once a month or so to do this... it’s pretty accurate for the most part and usually really specific. I wouldn’t say I rely on it, but I’m into the belief of some higher all-knowing power... I guess it brings reassurance and clarity when I can’t think for myself.</p>
 
 <h3 class="question">Is there something that you've dreamed of doing for a long time? Why haven't you done it yet?</h3>
 
@@ -70,6 +80,12 @@ quote5:
 <h3 class="question">What is your greatest achievement?</h3>
 
 <p>I would say that I'm really proud of myself this year, for actually being able to push myself to do things I've always wanted to do. Like microblading, I woke up one morning and thought, "You know what? I'm gonna fucking do it." I probably should've thought about it, [laughs] cause I dropped quite a bit of money for a two day course. But I did it, and I felt so good after; same thing with micro-shading, my skin certification, then my website. If I don't do it now, I'm gonna continue thinking about it, overthinking, and then not doing it at all... just goes back to that gut thing. Impulsivity, is that a word? I think it’s an Aires thing. [laughs] The best decisions I’ve made were impulsive—when I went with my gut.</p>
+
+<div class="quote">
+  <hr>
+  <h2 class="to-fade-up">"{{ page.quote3 }}"</h2>
+  <hr>
+</div>
 
 <h3 class="question">What do you value most in your friendships, can you describe a best friend?</h3>
 
@@ -94,7 +110,7 @@ quote5:
 
 <h3 class="question">What is something that people should know before meeting you?</h3>
 
-<p>I'm hyper-sensitive to the things people say and besides getting easily offended I'm actually really blunt... Oh, and I can't stand when people don't keep their word. Sometimes it comes off rude when I point it out but I don't mean to be. Maybe it's a defence mechanism from my insecurities... I have anxiety issues, so if someone feels intimidating and I choke on my words, most of the time I’m not saying what I’m thinking. Also, I suck at remembering names, [laughs] I could remember and retell your life story and recognize your face in teeny photos, but I won't be able to remember your name unless I've known you for years and you're relevant in my life.</p>
+<p>I'm hyper-sensitive to the things people say and besides getting easily offended I'm actually really blunt... Oh, and I can't stand when people don't keep their word. Sometimes it comes off rude when I point it out but I don't mean to be. Maybe it's a defence mechanism from my insecurities... I have anxiety issues, so if someone feels intimidating and I choke on my words, most of the time I’m not saying what I’m thinking. Also, I suck at remembering names, [laughs] I could retell your life story and recognize your face in teeny photos, but I won't be able to remember your name unless I've known you for years and you're relevant in my life.</p>
 
 <h3 class="question">What makes you laugh? What do you find humour in?</h3>
 
@@ -117,8 +133,13 @@ quote5:
 
 <p>Motivational issues, but this is a constant, not just right now. I have what I like to call <i>fake</i> grit—fake it til you make it you know? Probably comes from when I try to <i>chase two rabbits</i>. The saying is, “If you chase two rabbits, you won't get either one..." but I want to prove to myself that I can get what I want. So I end up constantly stressed and end up taking a nap... decision fatigue, it’s super unproductive and I always beat myself up over it... What I meant by two rabbits is chasing my dream to work in corporate <i>and</i> have my own business.</p>
 
-<p>I’ve recently gotten into planning my day the night before. It's a pretty hard habit to keep, but man, when I do it and get to check off my long ass list of to-do's, it makes me feel so accomplished. Gives me a sense of daily purpose... probably should have learnt how to prioritize in school, but it goes back to me being good not great at school—list making and studying wasn’t a thing until recently.</p>
+<p>I’ve recently gotten into planning my day the night before. It's a pretty hard habit to keep, but man, when I do it and get to check off my long ass list of to-do's, it makes me feel so accomplished. Gives me a sense of daily purpose... probably should have learnt how to prioritize in school, but it goes back to me being good not great at school: list-making and studying wasn’t a thing until recently.</p>
 
+<div class="quote">
+  <hr>
+  <h2 class="to-fade-up">"{{ page.quote4 }}"</h2>
+  <hr>
+</div>
 
 <h3 class="question">Any words of advice?</h3>
 
