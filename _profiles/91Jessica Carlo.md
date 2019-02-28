@@ -1,21 +1,20 @@
 ---
 layout: profile
-
-profileImage: /assets/images/portraits/tyler_palef/tyler_palef-home.jpg
+profileImage: /assets/images/portraits/jessica_carlo/jessica_carlo-home.jpg
 firstName: Jessica
 lastName: Carlo
-occupation: Father • Web Developer
-factCategory: Hockey Player
-factFact: James Reimer
-playlistLink: https://www.youtube.com/watch?v=Y5fBdpreJiU&list=PLqLfWv6bj-W1xk3SvM4ACCnHXgH5AxM0A
+occupation: Marketer • Designer • Creative Generalist
+factCategory: Practise
+factFact: Martial Arts
+playlistLink:
 
-headImage: /assets/images/portraits/tyler_palef/tyler_palef-profile.jpg
-images: /assets/images/portraits/tyler_palef/tyler_palef-
-quote1: "Then come third year: got a girl pregnant, have a baby... and that completely shifts your entire priorities."
-quote2: So I'm always thinking, "How can I give her the things that I had as a kid?" That’s what motivates me.
-quote3: You don't want to be the Yamcha, you don't want to be him... You want to be Goku.
-quote4: I think I just sat in the bathtub... cold water, nothing.
-quote5: You try to have a normal conversation, or you say things that's basically their eulogy for them.
+headImage: /assets/images/portraits/jessica_carlo/jessica_carlo-profile.jpg
+images: /assets/images/portraits/jessica_carlo/jessica_carlo-
+quote1: Really, really telling myself <i>no</i> to projects that just can’t happen right now.
+quote2: If I trade one of these qualities, I’m gonna get new qualities that also affect me negatively too.
+quote3: If you’re doing poorly, you could always tell them the full story.
+quote4: They need to know that the weight of the world is no longer on their shoulders.
+---
 ---
 
 
@@ -105,22 +104,19 @@ Ohh uhmmm… I’ve actually wanted to do so many things. I wanted to be a DJ…
 
 What is the greatest achievement in your life?
 
-Yo…like EVERYDAY is a fucking achievement, I’m not suicidal… I’m just saying. I could finally admit to myself, let alone another person… that I’ve had a very challenging time…. coming into my own. There are days where I don’t feel… I’m not feeling it. There’s no connection to another person, I think I go through phases where I just… disconnect or something? So my relation to the people and the world that is my life, it’s like.. it’s kinda weird, I dunno what the word is but… it’s all fragmented. I think it comes from feeling sadness… could be depression, could be isolation or anxiety. So I know that I’m an anxious person and I can admit that. My greatest achievement is just making it, day-by-day. Cause these things that are hard, it’s hard to live life, being your own worst critic and enemy. At the same time, training yourself to be your own best friend and fan. You’re actually doing two streams at the same time, you’re constantly playing both sides. If I wanted to quickly highlight some actual external achievements, my solo trips to Thailand, getting out of my comfort zone, taking those photos, doing that. I took what little savings I had, put it to a first and last month’s rent in a downtown condo, bought some furniture from some chick that was moving out, and turned it into an air bnb and had one of the most interesting years of my life, at the age of 25. I’ve done a lot of cool shit basically, and it’s been very non-mainstream at all, admittedly I would say. I’m not even saying it to brag. [laughs]
+Yo…like EVERYDAY is a fucking achievement, I’m not suicidal… I’m just saying. I could finally admit to myself, let alone another person… that I’ve had a very challenging time…. coming into my own. There are days where I don’t feel… I’m not feeling it. There’s no connection to another person, I think I go through phases where I just… disconnect or something? So my relation to the people and the world that is my life, it’s like.. it’s kinda weird, I dunno what the word is but… it’s all fragmented. I think it comes from feeling sadness… could be depression, could be isolation or anxiety. So I know that I’m an anxious person and I can admit that. My greatest achievement is just making it, day-by-day. It’s hard to live life, being your own worst critic and enemy, and at the same time, training yourself to be your own best friend and fan. You’re actually doing two streams at the same time, you’re constantly playing both sides. If I wanted to quickly highlight some actual external achievements, my solo trips to Thailand, getting out of my comfort zone, taking those photos, doing that. I took what little savings I had, put it to a first and last month’s rent in a downtown condo, bought some furniture from some chick that was moving out, and turned it into an air bnb and had one of the most interesting years of my life, at the age of 25. I’ve done a lot of cool shit basically, and it’s been very non-mainstream at all, admittedly I would say. I’m not even saying it to brag. [laughs]
 
 What do you value most in your relationships/friendships, could you describe what you want in a best friend?
 
 I value… real, honest, emotional connection and intimacy. It’s hard to get that from friends when my friend are also dealing with their own version of.. self-sabotage and stuff. People who are very much as you say “a perfectionist”, they don’t show their true selves to the world. Only they see it, and what we see is this person that they took a really long time to put forth this person. It’s after beating themself up about it for a little bit. I have friends like that, they’re actually some of the most beautiful people i’ve met because they’ve been through shit. What makes them beautiful is the fact that they’re wiling to express themselves. To share their darkest hours and… some of them deal with addictions, extreme personalities, mood swings and stuff. It’s very interesting to have that kind of perspective in your life, and I think that I haven’t expressed that really well but… I’m thinking in my head that anyone that shows their vulnerable side, is a good litmus test for what makes a good friend.
 
-After vulnerability is honesty, and willing to admit that you fucked up. Because you can have a  great, vulnerable relationship, but if you can’t admit that you were a half an hour late—that you fucked up, you’re just an asshole and we can’t be friends. I don’t care how deep the conversations are. [laughs]
+After vulnerability is honesty, and willing to admit that you fucked up. Because you can have a great, vulnerable relationship, but if you can’t admit that you were a half an hour late—that you fucked up, you’re just an asshole and we can’t be friends. I don’t care how deep the conversations are. [laughs]
 
 
 
 What is your most treasured memory?
 
 The snow days when we were younger, that’s when my circle of friends... we were all… I hung out with… My second brother had two friends with younger sisters in my grade. So we kinda rounded out, there’d be three guys, three girls, and the “plus one’s”, like the cousins of so-and-so. We kinda made a circle. When we had snow days, people would either come to my house and play Crazy Taxi, or whatever… we had games going. [smiles] So depending on what year it was… it’d be a different console, different games, something like that. I remember snow days turning into like… this is just a chance for all of us to just game each other. It was cute.
-
-
-
 
 
 What is your most terrible memory?
@@ -228,4 +224,4 @@ Any last words of general advice?
 
 I usually like.. I don't know. A rule of thumb is to not… don’t give advice. Cause I dunno, who the fuck gives advice anymore? Unless you’re Donald Trump. [laughs] Always be applying. When you’re at a job, don’t get comfortable: always be applying, always be interviewing. Always see what the market has in store for you, and how you fit the needs of another company thats not your current company. Basically see if there’s demand for your skills so that you can stay confident, and you just know that like… “Yo, this is nothing.” That’s how you shift from fear and scarcity to abundance, you have options. It’s like when you don’t have a lot going for you, you’ll take anybody, right? Like one person. when you it going for you, and you have all these “suitors” that are willing to… you know… you get to choose. But that’s not what I really wanted to say, just filling in the silence. [laughs]
 
-One thing I pinned to my Twitter profile: “People don’t suffer from depression, depression is  symptom. Many depressed people suffer from forsaking their dreams and passions for ideals and beliefs society has afflicted them with. People are not answering their calling, not following their hearts.” Long story short, there’s a Hamlet quote, “To thine own self be true.” I’ve heard it so many times that I consider it synchronistic. CEO’s dad the other day was like, “To thine own self be true.” I’m like, “Why is everyone saying this quote when it’s my favorite one of all time?” These are the people that are going to champion <i>Jess</i>.
+One thing I pinned to my Twitter profile: “People don’t suffer from depression, depression is a symptom. Many depressed people suffer from forsaking their dreams and passions for ideals and beliefs society has afflicted them with. People are not answering their calling, not following their hearts.” Long story short, there’s a Hamlet quote, “To thine own self be true.” I’ve heard it so many times that I consider it synchronistic. CEO’s dad the other day was like, “To thine own self be true.” I’m like, “Why is everyone saying this quote when it’s my favorite one of all time?” These are the people that are going to champion <i>Jess</i>.
